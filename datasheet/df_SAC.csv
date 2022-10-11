@@ -1,0 +1,1060 @@
+Data Chamado,Data Resposta,Tempo Resposta,Usuário,Atendente,Problema,Status,Mes,Día,Diferença Días
+2019-01-01,2019-01-10,00:01:10,Manuela Abreu Braga Martins,Camila Pereira,Alterar senha,Encerrado,1,1,9
+2019-01-01,2019-01-03,00:04:43,Rafael Viana Santos,Alon Pinheiro,Problema com login,Sem resposta,1,1,2
+2019-01-01,2019-01-04,00:04:08,Adelino Werneck,Diego Amorim,Dúvidas/Outros,Encerrado,1,1,3
+2019-01-01,2019-01-01,00:03:07,Flávio Jacques Gamboa Fernandez de Oliveira Netto,Diego Amorim,Conexão lenta,Encerrado,1,1,0
+2019-01-02,2019-01-03,00:04:19,Raphael Rodrigues,Heitor Prado,Conexão lenta,Encerrado,1,2,1
+2019-01-02,2019-01-04,00:05:48,Manuela Tavares,João Paulo,Conexão lenta,Encerrado,1,2,2
+2019-01-02,2019-01-07,00:07:43,Jayme Carvalho,Diego Amorim,Problema com login,Encerrado,1,2,5
+2019-01-02,2019-01-03,00:02:46,Bruna Ferreira,Diego Amorim,Conexão lenta,Encerrado,1,2,1
+2019-01-02,2019-01-03,00:01:57,Guilherme Nunez,Diego Amorim,Conexão lenta,Encerrado,1,2,1
+2019-01-02,2019-01-02,00:01:29,Paloma Agostinho Marques dos Santos,Diego Amorim,Dúvidas/Outros,Encerrado,1,2,0
+2019-01-03,2019-01-03,00:02:34,Amanda Marinho,Heitor Prado,Dúvidas/Outros,Encerrado,1,3,0
+2019-01-03,2019-01-05,00:05:40,Wesley de Melo Teixeira,Diego Amorim,Conexão lenta,Encerrado,1,3,2
+2019-01-04,2019-01-08,00:08:06,Livia Mello,João Paulo,Pagamento,Encerrado,1,4,4
+2019-01-04,2019-01-06,00:05:10,Pedro Alcoforado,João Paulo,Pagamento,Encerrado,1,4,2
+2019-01-05,2019-01-05,00:01:15,Giovanna Fahrnholz,Camila Pereira,Conexão lenta,Encerrado,1,5,0
+2019-01-06,2019-01-08,00:05:30,Marcelo Monnerat,Camila Pereira,Pagamento,Encerrado,1,6,2
+2019-01-06,2019-01-06,00:02:21,Lucas Bach,Diego Amorim,Dúvidas/Outros,Encerrado,1,6,0
+2019-01-06,2019-01-09,00:07:22,Beatriz Rodrigues,Carol Espinosa,Problema com login,Encerrado,1,6,3
+2019-01-07,2019-01-08,00:08:57,Pedro Correa Rodriguez,João Paulo,Pagamento,Cancelado,1,7,1
+2019-01-07,2019-01-08,00:03:10,Jaqueline Rimolo de Menezes,Diego Amorim,Conexão lenta,Cancelado,1,7,1
+2019-01-09,2019-01-10,00:01:19,Marcelo Amaral Coelho,Alon Pinheiro,Conexão lenta,Encerrado,1,9,1
+2019-01-09,2019-01-10,00:06:13,Guilherme Araujo Kelly,Diego Amorim,Dúvidas/Outros,Encerrado,1,9,1
+2019-01-10,2019-01-11,00:10:34,Beatriz de Lima Oliveira,Heitor Prado,Dúvidas/Outros,Encerrado,1,10,1
+2019-01-10,2019-01-18,00:08:43,José Cardeman,Heitor Prado,Alterar senha,Encerrado,1,10,8
+2019-01-10,2019-01-10,00:08:48,Rafael Lobo,João Paulo,Dúvidas/Outros,Encerrado,1,10,0
+2019-01-10,2019-01-13,00:07:20,Mariana Figueiredo Barbosa,João Paulo,Dúvidas/Outros,Encerrado,1,10,3
+2019-01-11,2019-01-12,00:01:22,Daniel Thuler,Heitor Prado,Conexão lenta,Cancelado,1,11,1
+2019-01-11,2019-01-15,00:06:43,Milena Brum,João Paulo,Conexão lenta,Encerrado,1,11,4
+2019-01-11,2019-01-12,00:03:50,Rafael Viana Santos,Diego Amorim,Dúvidas/Outros,Encerrado,1,11,1
+2019-01-11,2019-01-15,00:06:30,Marina de Godoy,Carol Espinosa,Reembolso,Cancelado,1,11,4
+2019-01-12,2019-01-12,00:03:00,Lorena de Moraes Junior,Heitor Prado,Problema com login,Sem resposta,1,12,0
+2019-01-12,2019-01-18,00:04:43,Lucas Pinheiro Oliveira,Diego Amorim,Cancelar usuário,Encerrado,1,12,6
+2019-01-13,2019-01-14,00:03:33,Bernard Mello,Heitor Prado,Pagamento,Encerrado,1,13,1
+2019-01-13,2019-01-23,00:05:21,Carolina Gonçalves Lixa Fontoura,João Paulo,Alterar senha,Sem resposta,1,13,10
+2019-01-13,2019-01-18,00:07:54,Marina Silva Pacheco,Diego Amorim,Dúvidas/Outros,Cancelado,1,13,5
+2019-01-13,2019-01-17,00:04:20,Manuela Tavares,Diego Amorim,Dúvidas/Outros,Sem resposta,1,13,4
+2019-01-14,2019-01-14,00:04:04,Elaine de Aragao,Diego Amorim,Conexão lenta,Encerrado,1,14,0
+2019-01-15,2019-01-17,00:04:58,Caroline Gaspar de Mattos      ,Camila Pereira,Conexão lenta,Encerrado,1,15,2
+2019-01-15,2019-01-16,00:01:50,Renan Fernandes,Heitor Prado,Dúvidas/Outros,Encerrado,1,15,1
+2019-01-15,2019-01-15,00:11:03,Rafael Carrera,Carol Espinosa,Pagamento,Sem resposta,1,15,0
+2019-01-16,2019-01-17,00:06:10,Daniel Thuler,Heitor Prado,Dúvidas/Outros,Encerrado,1,16,1
+2019-01-16,2019-01-21,00:05:36,Maria Mello,Alon Pinheiro,Dúvidas/Outros,Encerrado,1,16,5
+2019-01-19,2019-01-20,00:07:22,André dos Santos Pereira Brito,João Paulo,Pagamento,Encerrado,1,19,1
+2019-01-19,2019-01-19,00:05:57,Camila Fonseca Martinez,João Paulo,Dúvidas/Outros,Encerrado,1,19,0
+2019-01-19,2019-01-25,00:05:27,João Monteiro,João Paulo,Dúvidas/Outros,Encerrado,1,19,6
+2019-01-19,2019-01-24,00:04:47,Guilherme Delgado,Alon Pinheiro,Dúvidas/Outros,Encerrado,1,19,5
+2019-01-19,2019-01-19,00:05:57,Leandro Coutinho,Diego Amorim,Dúvidas/Outros,Sem resposta,1,19,0
+2019-01-19,2019-01-22,00:01:00,Giovana Marinho,Diego Amorim,Conexão lenta,Encerrado,1,19,3
+2019-01-20,2019-01-21,00:10:44,Luis Morgado,João Paulo,Reembolso,Encerrado,1,20,1
+2019-01-20,2019-01-27,00:06:22,Fernanda Castro Morett Ceppas,Diego Amorim,Pagamento,Encerrado,1,20,7
+2019-01-20,2019-01-23,00:02:23,Elvis Macedo,Carol Espinosa,Problema com login,Encerrado,1,20,3
+2019-01-21,2019-01-21,00:06:51,Ébio Velucci,João Paulo,Dúvidas/Outros,Sem resposta,1,21,0
+2019-01-21,2019-01-21,00:02:37,Rodrigo e Silva Lemos,Diego Amorim,Conexão lenta,Encerrado,1,21,0
+2019-01-21,2019-01-24,00:02:45,Lucas Bach,Carol Espinosa,Reembolso,Encerrado,1,21,3
+2019-01-22,2019-01-22,00:03:19,Marina Silva Pacheco,Alon Pinheiro,Cancelar usuário,Encerrado,1,22,0
+2019-01-22,2019-01-23,00:04:09,Carolina Gonçalves Lixa Fontoura,Diego Amorim,Problema com login,Encerrado,1,22,1
+2019-01-22,2019-01-25,00:02:55,João Rodrigues,Diego Amorim,Alterar senha,Encerrado,1,22,3
+2019-01-22,2019-01-22,00:09:04,Pedro Domingos,Carol Espinosa,Conexão lenta,Encerrado,1,22,0
+2019-01-23,2019-01-23,00:01:12,Luize da Costa,Camila Pereira,Dúvidas/Outros,Encerrado,1,23,0
+2019-01-23,2019-01-29,00:05:10,Bernard Mello,Heitor Prado,Conexão lenta,Encerrado,1,23,6
+2019-01-23,2019-01-28,00:02:51,Paula de Sousa Leite,Heitor Prado,Dúvidas/Outros,Encerrado,1,23,5
+2019-01-23,2019-01-23,00:05:37,Nathália Fernandes de Araújo,Diego Amorim,Dúvidas/Outros,Encerrado,1,23,0
+2019-01-23,2019-01-26,00:01:30,Guilherme Nunez,Diego Amorim,Dúvidas/Outros,Cancelado,1,23,3
+2019-01-24,2019-01-24,00:04:56,Eduardo Brum,João Paulo,Problema com login,Encerrado,1,24,0
+2019-01-24,2019-01-26,00:02:33,Maria Mello,Diego Amorim,Conexão lenta,Sem resposta,1,24,2
+2019-01-25,2019-01-30,00:01:36,Yuri Valerio Albino,Camila Pereira,Conexão lenta,Encerrado,1,25,5
+2019-01-25,2019-01-25,00:08:34,Igor Jimenez Jimbo,João Paulo,Dúvidas/Outros,Encerrado,1,25,0
+2019-01-26,2019-01-26,00:03:43,Guilherme Lander Regasso,Heitor Prado,Dúvidas/Outros,Encerrado,1,26,0
+2019-01-26,2019-02-01,00:09:20,Rafael Lobo,João Paulo,Pagamento,Sem resposta,1,26,6
+2019-01-26,2019-01-27,00:04:46,Rafaela de Godoy,João Paulo,Dúvidas/Outros,Cancelado,1,26,1
+2019-01-26,2019-01-29,00:02:29,Caroline Valente de Figueiredo,Alon Pinheiro,Dúvidas/Outros,Cancelado,1,26,3
+2019-01-26,2019-01-26,00:04:41,Jaqueline Rimolo de Menezes,Carol Espinosa,Dúvidas/Outros,Encerrado,1,26,0
+2019-01-27,2019-01-27,00:02:49,Bruna Jimenez Jimbo,João Paulo,Conexão lenta,Encerrado,1,27,0
+2019-01-27,2019-01-27,00:04:42,Renata Lopes de Oliveira,Alon Pinheiro,Dúvidas/Outros,Cancelado,1,27,0
+2019-01-27,2019-01-29,00:03:56,Brenno Silva,Diego Amorim,Conexão lenta,Encerrado,1,27,2
+2019-01-28,2019-01-29,00:03:04,Carolina Fontes,Camila Pereira,Conexão lenta,Encerrado,1,28,1
+2019-01-28,2019-01-28,00:08:39,Beatriz Rodrigues,Heitor Prado,Conexão lenta,Cancelado,1,28,0
+2019-01-28,2019-01-29,00:07:17,Gabriela Costa,João Paulo,Alterar senha,Encerrado,1,28,1
+2019-01-28,2019-01-28,00:07:06,Elvis Macedo,Alon Pinheiro,Cancelar usuário,Cancelado,1,28,0
+2019-01-29,2019-01-31,00:01:56,Diego de Melo Teixeira,Diego Amorim,Dúvidas/Outros,Encerrado,1,29,2
+2019-01-30,2019-02-07,00:03:12,Rafael Viana Santos,Heitor Prado,Dúvidas/Outros,Encerrado,1,30,8
+2019-01-30,2019-01-31,00:08:05,Eduarda Mello,João Paulo,Dúvidas/Outros,Encerrado,1,30,1
+2019-01-30,2019-02-03,00:04:51,Bernardo de Lima Oliveira,João Paulo,Conexão lenta,Cancelado,1,30,4
+2019-01-30,2019-01-31,00:02:34,Bruno Paes Leme,João Paulo,Reembolso,Encerrado,1,30,1
+2019-01-30,2019-01-30,00:08:59,Bárbara Gonçalves ,Alon Pinheiro,Dúvidas/Outros,Encerrado,1,30,0
+2019-01-31,2019-02-01,00:05:26,Lucas Alvarenga dos Santos,Camila Pereira,Dúvidas/Outros,Encerrado,1,31,1
+2019-01-31,2019-02-05,00:02:00,Adrielle Sá Rodrigues,João Paulo,Conexão lenta,Encerrado,1,31,5
+2019-01-31,2019-02-04,00:02:50,Julia Andrade Gomes,Carol Espinosa,Conexão lenta,Cancelado,1,31,4
+2019-02-02,2019-02-03,00:02:53,Renan Steiner Costa,João Paulo,Dúvidas/Outros,Cancelado,2,2,1
+2019-02-02,2019-02-03,00:01:58,Julia Andrade Gomes,Diego Amorim,Problema com login,Encerrado,2,2,1
+2019-02-03,2019-02-07,00:08:02,Joana Guimarães,João Paulo,Pagamento,Cancelado,2,3,4
+2019-02-03,2019-02-08,00:01:41,Raíza Barcellos,Diego Amorim,Cancelar usuário,Encerrado,2,3,5
+2019-02-03,2019-02-04,00:13:49,Frederico Vidal,Carol Espinosa,Problema com login,Encerrado,2,3,1
+2019-02-04,2019-02-08,00:05:09,Bruno Paes Leme,João Paulo,Reembolso,Cancelado,2,4,4
+2019-02-04,2019-02-04,00:05:30,Carolina de Souza Almeida,Diego Amorim,Dúvidas/Outros,Encerrado,2,4,0
+2019-02-05,2019-02-05,00:05:12,Luís Werneck,Camila Pereira,Conexão lenta,Cancelado,2,5,0
+2019-02-05,2019-02-06,00:08:30,Raquel Tavares,Heitor Prado,Dúvidas/Outros,Cancelado,2,5,1
+2019-02-05,2019-02-07,00:06:51,Bruno de Souza,Heitor Prado,Problema com login,Encerrado,2,5,2
+2019-02-05,2019-02-06,00:08:10,Vinícius Maluf,Alon Pinheiro,Conexão lenta,Encerrado,2,5,1
+2019-02-05,2019-02-05,00:02:06,Raphael Rodrigues,Diego Amorim,Conexão lenta,Encerrado,2,5,0
+2019-02-05,2019-02-05,00:05:09,Daniel Benevides Xavier,Carol Espinosa,Dúvidas/Outros,Encerrado,2,5,0
+2019-02-06,2019-02-11,00:04:45,Andre Campos,Alon Pinheiro,Alterar senha,Cancelado,2,6,5
+2019-02-06,2019-02-08,00:03:14,Renan Taylor,Diego Amorim,Conexão lenta,Encerrado,2,6,2
+2019-02-06,2019-02-08,00:02:49,Beatriz de Lima Oliveira,Diego Amorim,Conexão lenta,Encerrado,2,6,2
+2019-02-07,2019-02-09,00:06:57,Luiz Guarçoni Migueis,Heitor Prado,Conexão lenta,Encerrado,2,7,2
+2019-02-07,2019-02-10,00:06:04,Lucas Martins,Heitor Prado,Dúvidas/Outros,Encerrado,2,7,3
+2019-02-07,2019-02-07,00:05:51,Pedro Correa Rodriguez,Heitor Prado,Conexão lenta,Encerrado,2,7,0
+2019-02-07,2019-02-09,00:02:01,Bruna Jimenez Jimbo,João Paulo,Conexão lenta,Encerrado,2,7,2
+2019-02-07,2019-02-12,00:03:05,Luis Azevedo,Alon Pinheiro,Alterar senha,Encerrado,2,7,5
+2019-02-07,2019-02-07,00:05:59,Luiza Monnerat,Carol Espinosa,Problema com login,Encerrado,2,7,0
+2019-02-08,2019-02-08,00:04:09,Fernanda Santo,João Paulo,Dúvidas/Outros,Cancelado,2,8,0
+2019-02-09,2019-02-10,00:05:47,João Barbosa,Alon Pinheiro,Problema com login,Encerrado,2,9,1
+2019-02-09,2019-02-10,00:03:00,Isabella de Azevedo Alves,Diego Amorim,Dúvidas/Outros,Encerrado,2,9,1
+2019-02-09,2019-02-14,00:05:11,Daniele Blumberg,Carol Espinosa,Conexão lenta,Encerrado,2,9,5
+2019-02-10,2019-02-11,00:05:14,Nathalia Melo Eiras,Camila Pereira,Conexão lenta,Encerrado,2,10,1
+2019-02-11,2019-02-11,00:14:00,Norman de Souza,João Paulo,Dúvidas/Outros,Cancelado,2,11,0
+2019-02-11,2019-02-12,00:05:39,Nathália Fernandes de Araújo,João Paulo,Alterar senha,Encerrado,2,11,1
+2019-02-11,2019-02-11,00:09:07,Átila Aquino de Carvalho,Diego Amorim,Alterar senha,Encerrado,2,11,0
+2019-02-11,2019-02-15,00:05:14,Flávio Fontes,Diego Amorim,Dúvidas/Outros,Cancelado,2,11,4
+2019-02-12,2019-02-13,00:03:14,Daniel Lopes da Silveira ,Heitor Prado,Dúvidas/Outros,Sem resposta,2,12,1
+2019-02-12,2019-02-12,00:02:15,Luiza Monnerat,Diego Amorim,Dúvidas/Outros,Encerrado,2,12,0
+2019-02-12,2019-02-12,00:04:29,Renan Steiner Costa,Carol Espinosa,Problema com login,Encerrado,2,12,0
+2019-02-13,2019-02-17,00:02:25,Ramon Vaz,Heitor Prado,Conexão lenta,Cancelado,2,13,4
+2019-02-13,2019-02-13,00:07:12,Caroline Valente de Figueiredo,João Paulo,Alterar senha,Cancelado,2,13,0
+2019-02-14,2019-02-16,00:05:50,Nathalia Melo Eiras,Camila Pereira,Conexão lenta,Encerrado,2,14,2
+2019-02-15,2019-02-22,00:04:53,Matheus Pereira dos Santos,João Paulo,Reembolso,Cancelado,2,15,7
+2019-02-15,2019-02-15,00:02:26,Luize da Costa,João Paulo,Conexão lenta,Encerrado,2,15,0
+2019-02-15,2019-02-22,00:08:27,Gabriel Pereira,Alon Pinheiro,Dúvidas/Outros,Encerrado,2,15,7
+2019-02-16,2019-02-16,00:05:39,Nicole Marquito de Paiva Torres,Diego Amorim,Dúvidas/Outros,Encerrado,2,16,0
+2019-02-17,2019-02-22,00:07:25,João de Souza,Diego Amorim,Conexão lenta,Encerrado,2,17,5
+2019-02-17,2019-02-22,00:06:32,Marta Costa,Carol Espinosa,Pagamento,Encerrado,2,17,5
+2019-02-18,2019-02-18,00:08:49,Lucas Martins,João Paulo,Conexão lenta,Encerrado,2,18,0
+2019-02-18,2019-02-20,00:05:10,Raquel Tavares,João Paulo,Dúvidas/Outros,Encerrado,2,18,2
+2019-02-19,2019-02-20,00:30:00,Camilla Ferraz,Heitor Prado,Pagamento,Sem resposta,2,19,1
+2019-02-19,2019-02-20,00:02:57,Pedro Alcoforado,Diego Amorim,Conexão lenta,Encerrado,2,19,1
+2019-02-19,2019-02-19,00:02:04,Mariana Schwenck Gullo,Diego Amorim,Reembolso,Cancelado,2,19,0
+2019-02-20,2019-02-20,00:01:15,João Barbosa,Heitor Prado,Conexão lenta,Encerrado,2,20,0
+2019-02-20,2019-02-21,00:08:11,Brenda Lopes,João Paulo,Conexão lenta,Encerrado,2,20,1
+2019-02-20,2019-02-21,00:02:23,Bernard Mello,Alon Pinheiro,Conexão lenta,Cancelado,2,20,1
+2019-02-22,2019-02-23,00:02:39,Marcello Jorge Montanholi,Alon Pinheiro,Cancelar usuário,Encerrado,2,22,1
+2019-02-22,2019-02-22,00:06:24,Milena Fernandes,Diego Amorim,Dúvidas/Outros,Cancelado,2,22,0
+2019-02-23,2019-02-25,00:01:05,Fernanda Castro Morett Ceppas,Camila Pereira,Reembolso,Encerrado,2,23,2
+2019-02-23,2019-02-23,00:12:35,Daniel Alvarenga dos Santos,João Paulo,Reembolso,Encerrado,2,23,0
+2019-02-23,2019-03-01,00:08:52,Lucas Brum Pereira,Alon Pinheiro,Dúvidas/Outros,Cancelado,2,23,6
+2019-02-23,2019-02-25,00:03:49,Geam Petraglia da Silva,Diego Amorim,Pagamento,Encerrado,2,23,2
+2019-02-24,2019-02-26,00:02:38,Rodrigo da Silva,Alon Pinheiro,Conexão lenta,Encerrado,2,24,2
+2019-02-24,2019-03-01,00:02:30,Bruno Cunha Felippe,Diego Amorim,Conexão lenta,Sem resposta,2,24,5
+2019-02-25,2019-02-27,00:02:51,Thiago Fernandes de Araújo,Alon Pinheiro,Dúvidas/Outros,Encerrado,2,25,2
+2019-02-26,2019-02-27,00:01:40,Jayme Carvalho,Camila Pereira,Cancelar usuário,Encerrado,2,26,1
+2019-02-26,2019-02-28,00:04:59,Stefan Vargas,Heitor Prado,Dúvidas/Outros,Sem resposta,2,26,2
+2019-02-26,2019-02-28,00:06:03,Guilherme Delgado,João Paulo,Conexão lenta,Encerrado,2,26,2
+2019-02-26,2019-03-03,00:05:26,Raquel Tavares,Alon Pinheiro,Pagamento,Encerrado,2,26,5
+2019-02-27,2019-02-27,00:03:04,Lucas Bach,Camila Pereira,Problema com login,Cancelado,2,27,0
+2019-02-27,2019-03-03,00:02:14,Carolina Calafate,Camila Pereira,Problema com login,Sem resposta,2,27,4
+2019-02-27,2019-03-05,00:12:42,Bruna Jimenez Jimbo,João Paulo,Dúvidas/Outros,Encerrado,2,27,6
+2019-02-27,2019-03-01,00:01:22,Lucas Alvim,João Paulo,Conexão lenta,Encerrado,2,27,2
+2019-02-27,2019-02-28,00:01:57,Carolina da Silva,Alon Pinheiro,Problema com login,Encerrado,2,27,1
+2019-02-28,2019-02-28,00:03:04,Nathália Augusto Oliveira,Camila Pereira,Conexão lenta,Encerrado,2,28,0
+2019-03-01,2019-03-01,00:14:22,Átila Aquino de Carvalho,João Paulo,Conexão lenta,Encerrado,3,1,0
+2019-03-01,2019-03-01,00:06:02,Brenno Silva,João Paulo,Dúvidas/Outros,Encerrado,3,1,0
+2019-03-01,2019-03-04,00:03:17,Julia Freitas,Alon Pinheiro,Cancelar usuário,Encerrado,3,1,3
+2019-03-01,2019-03-01,00:08:35,Gabriel Pereira,Diego Amorim,Dúvidas/Outros,Encerrado,3,1,0
+2019-03-01,2019-03-01,00:07:11,Flávio Santos Garcia,Diego Amorim,Dúvidas/Outros,Encerrado,3,1,0
+2019-03-03,2019-03-10,00:06:28,Milena Brum,Alon Pinheiro,Pagamento,Sem resposta,3,3,7
+2019-03-03,2019-03-10,00:11:07,Amanda Ferreira,Diego Amorim,Problema com login,Encerrado,3,3,7
+2019-03-04,2019-03-06,00:02:42,Gabriel Pereira,Diego Amorim,Problema com login,Sem resposta,3,4,2
+2019-03-04,2019-03-06,00:02:16,Larissa Leal Pedrosa,Carol Espinosa,Dúvidas/Outros,Encerrado,3,4,2
+2019-03-05,2019-03-06,00:18:57,Bruno Paes Leme,Heitor Prado,Problema com login,Encerrado,3,5,1
+2019-03-05,2019-03-06,00:01:55,Gabriela Gômara,João Paulo,Cancelar usuário,Encerrado,3,5,1
+2019-03-05,2019-03-10,00:07:26,Bárbara Spenchutt Vieira,Alon Pinheiro,Conexão lenta,Encerrado,3,5,5
+2019-03-05,2019-03-12,00:04:53,João Fagundes,Diego Amorim,Conexão lenta,Encerrado,3,5,7
+2019-03-07,2019-03-08,00:03:04,Luis Azevedo,Camila Pereira,Conexão lenta,Encerrado,3,7,1
+2019-03-07,2019-03-07,00:03:04,Maria Freire de Souza,Camila Pereira,Conexão lenta,Encerrado,3,7,0
+2019-03-07,2019-03-09,00:03:04,Fernanda do Nascimento Rocha,Camila Pereira,Dúvidas/Outros,Encerrado,3,7,2
+2019-03-07,2019-03-08,00:08:48,Nathalia Melo Eiras,Heitor Prado,Dúvidas/Outros,Cancelado,3,7,1
+2019-03-07,2019-03-13,00:06:05,Daniel Thuler,Diego Amorim,Problema com login,Encerrado,3,7,6
+2019-03-08,2019-03-16,00:05:43,Luis Guimarães,Heitor Prado,Conexão lenta,Cancelado,3,8,8
+2019-03-08,2019-03-08,00:04:17,Matheus Pereira dos Santos,Heitor Prado,Alterar senha,Cancelado,3,8,0
+2019-03-08,2019-03-09,00:01:57,Bruna Jimenez Jimbo,Diego Amorim,Dúvidas/Outros,Encerrado,3,8,1
+2019-03-09,2019-03-09,00:03:04,Rafaella Sarmento e Silva,Camila Pereira,Problema com login,Encerrado,3,9,0
+2019-03-10,2019-03-10,00:01:14,Pedro Fontes,Heitor Prado,Conexão lenta,Cancelado,3,10,0
+2019-03-10,2019-03-17,00:03:32,Carlos Mota,João Paulo,Dúvidas/Outros,Encerrado,3,10,7
+2019-03-10,2019-03-10,00:03:02,Fernanda Gonçalves,Diego Amorim,Problema com login,Encerrado,3,10,0
+2019-03-10,2019-03-11,00:08:20,Marina de Godoy,Carol Espinosa,Conexão lenta,Cancelado,3,10,1
+2019-03-11,2019-03-19,00:05:49,Mariana Garcia Soares,Diego Amorim,Problema com login,Encerrado,3,11,8
+2019-03-12,2019-03-14,00:03:20,Rômulo Pereira da Silva,Heitor Prado,Conexão lenta,Sem resposta,3,12,2
+2019-03-12,2019-03-12,00:06:58,Yuske Orichio,João Paulo,Conexão lenta,Cancelado,3,12,0
+2019-03-12,2019-03-13,00:09:02,Isabelle de Sá Foly,Diego Amorim,Conexão lenta,Encerrado,3,12,1
+2019-03-12,2019-03-12,00:04:52,Amanda de Lacerda,Diego Amorim,Conexão lenta,Encerrado,3,12,0
+2019-03-13,2019-03-13,00:03:04,Paulo Rodrigues Pereira,Camila Pereira,Conexão lenta,Encerrado,3,13,0
+2019-03-13,2019-03-18,00:03:06,Carolina Gonçalves Lixa Fontoura,Diego Amorim,Dúvidas/Outros,Sem resposta,3,13,5
+2019-03-13,2019-03-14,00:01:52,Thalles Jordão Teixeira,Diego Amorim,Dúvidas/Outros,Encerrado,3,13,1
+2019-03-15,2019-03-15,00:03:04,Victor Fonseca,Camila Pereira,Conexão lenta,Encerrado,3,15,0
+2019-03-15,2019-03-15,00:08:14,Andre Campos,Diego Amorim,Conexão lenta,Encerrado,3,15,0
+2019-03-15,2019-03-15,00:04:50,Paloma Agostinho Marques dos Santos,Diego Amorim,Conexão lenta,Encerrado,3,15,0
+2019-03-16,2019-03-16,00:03:04,Eduarda Mello,Camila Pereira,Dúvidas/Outros,Cancelado,3,16,0
+2019-03-16,2019-03-16,00:09:02,Lorena Freire,Diego Amorim,Pagamento,Encerrado,3,16,0
+2019-03-16,2019-03-17,00:02:55,Paloma Albano,Diego Amorim,Pagamento,Encerrado,3,16,1
+2019-03-16,2019-03-16,00:09:21,Amanda Rodrigues,Carol Espinosa,Pagamento,Sem resposta,3,16,0
+2019-03-17,2019-03-26,00:05:29,Bernard Mello,João Paulo,Conexão lenta,Encerrado,3,17,9
+2019-03-18,2019-03-23,00:04:56,Flávio Fontes,João Paulo,Conexão lenta,Encerrado,3,18,5
+2019-03-18,2019-03-21,00:03:18,Sarah de Carvalho Gomes,João Paulo,Conexão lenta,Cancelado,3,18,3
+2019-03-18,2019-03-21,00:05:40,Ramon Vaz,Carol Espinosa,Dúvidas/Outros,Cancelado,3,18,3
+2019-03-19,2019-03-21,00:03:51,André dos Santos Pereira Brito,Heitor Prado,Conexão lenta,Encerrado,3,19,2
+2019-03-19,2019-03-19,00:02:44,Douglas Costa,Heitor Prado,Problema com login,Encerrado,3,19,0
+2019-03-19,2019-03-19,00:02:16,João Ramos,Carol Espinosa,Conexão lenta,Encerrado,3,19,0
+2019-03-22,2019-03-28,00:07:40,Marta Fahrnholz,João Paulo,Dúvidas/Outros,Encerrado,3,22,6
+2019-03-23,2019-03-23,00:01:37,Nathalia Melo Eiras,João Paulo,Conexão lenta,Encerrado,3,23,0
+2019-03-23,2019-03-24,00:03:58,Norman de Souza,Alon Pinheiro,Conexão lenta,Encerrado,3,23,1
+2019-03-23,2019-03-28,00:02:57,Carolina Gaspar de Mattos      ,Diego Amorim,Conexão lenta,Cancelado,3,23,5
+2019-03-23,2019-03-24,00:07:53,Luiz de Mattos,Carol Espinosa,Conexão lenta,Encerrado,3,23,1
+2019-03-24,2019-03-25,00:07:50,Carolina Fontes,João Paulo,Conexão lenta,Sem resposta,3,24,1
+2019-03-25,2019-03-30,00:01:00,Bruna Calmon,Heitor Prado,Dúvidas/Outros,Encerrado,3,25,5
+2019-03-25,2019-03-27,00:09:37,Amanda Ferreira,João Paulo,Conexão lenta,Cancelado,3,25,2
+2019-03-25,2019-03-27,00:05:51,Priscila Orçai Granado,Carol Espinosa,Conexão lenta,Cancelado,3,25,2
+2019-03-26,2019-03-28,00:01:15,Paulo Souza,Camila Pereira,Dúvidas/Outros,Cancelado,3,26,2
+2019-03-26,2019-03-26,00:02:40,Lais Cormack,Diego Amorim,Conexão lenta,Encerrado,3,26,0
+2019-03-26,2019-03-26,00:05:05,Marcello Jorge Montanholi,Carol Espinosa,Dúvidas/Outros,Cancelado,3,26,0
+2019-03-27,2019-03-31,00:08:20,Daniel Thuler,Heitor Prado,Conexão lenta,Encerrado,3,27,4
+2019-03-27,2019-03-29,00:04:19,Patricia Vieira Branco de Matos,Alon Pinheiro,Conexão lenta,Encerrado,3,27,2
+2019-03-27,2019-03-31,00:06:50,João Fagundes,Diego Amorim,Alterar senha,Encerrado,3,27,4
+2019-03-27,2019-04-04,00:06:09,Milena Fernandes,Diego Amorim,Dúvidas/Outros,Cancelado,3,27,8
+2019-03-27,2019-03-30,00:04:36,Bruna Ferreira,Diego Amorim,Cancelar usuário,Encerrado,3,27,3
+2019-03-27,2019-04-02,00:02:24,Gabriel Rozental,Diego Amorim,Dúvidas/Outros,Encerrado,3,27,6
+2019-03-27,2019-04-04,00:08:24,Rodrigo da Silva,Carol Espinosa,Pagamento,Encerrado,3,27,8
+2019-03-28,2019-03-29,00:02:22,Eduardo Ramos,Camila Pereira,Conexão lenta,Encerrado,3,28,1
+2019-03-28,2019-03-28,00:08:11,Tomas Guadagnino,Heitor Prado,Conexão lenta,Encerrado,3,28,0
+2019-03-28,2019-04-05,00:07:07,João Monteiro,João Paulo,Cancelar usuário,Encerrado,3,28,8
+2019-03-28,2019-03-31,00:01:11,Juan Santos Rosa,João Paulo,Conexão lenta,Encerrado,3,28,3
+2019-03-28,2019-03-29,00:03:13,Julia Novaes Silva,Alon Pinheiro,Dúvidas/Outros,Encerrado,3,28,1
+2019-03-28,2019-03-28,00:04:46,Rômulo Knudsen,Diego Amorim,Dúvidas/Outros,Encerrado,3,28,0
+2019-03-30,2019-04-03,00:11:41,Renan Taylor,Heitor Prado,Conexão lenta,Encerrado,3,30,4
+2019-03-30,2019-04-09,00:02:38,Andre Campos,João Paulo,Cancelar usuário,Cancelado,3,30,10
+2019-03-30,2019-03-30,00:07:22,Pedro Vilas Bôas,Diego Amorim,Problema com login,Encerrado,3,30,0
+2019-03-31,2019-04-04,00:04:06,Hannah de Oliveira,Heitor Prado,Conexão lenta,Sem resposta,3,31,4
+2019-03-31,2019-04-03,00:01:23,Iasmim Jacques Gamboa Fernandez de Oliveira Netto,Diego Amorim,Conexão lenta,Encerrado,3,31,3
+2019-04-01,2019-04-03,00:05:01,Yuske Orichio,Alon Pinheiro,Problema com login,Encerrado,4,1,2
+2019-04-01,2019-04-03,00:08:37,Paula Marques Ribeiro,Diego Amorim,Pagamento,Cancelado,4,1,2
+2019-04-02,2019-04-06,00:02:48,Marcelo Amaral Coelho,Camila Pereira,Problema com login,Cancelado,4,2,4
+2019-04-02,2019-04-03,00:10:58,Geam Petraglia da Silva,Heitor Prado,Pagamento,Cancelado,4,2,1
+2019-04-02,2019-04-02,00:07:43,Júlia Oliveira de Mello Silva,Heitor Prado,Conexão lenta,Encerrado,4,2,0
+2019-04-02,2019-04-02,00:06:44,Lucas Alvarenga dos Santos,João Paulo,Cancelar usuário,Encerrado,4,2,0
+2019-04-02,2019-04-02,00:01:28,Marta Fahrnholz,Alon Pinheiro,Conexão lenta,Encerrado,4,2,0
+2019-04-03,2019-04-12,00:02:54,Carolina Monteiro,Heitor Prado,Conexão lenta,Encerrado,4,3,9
+2019-04-04,2019-04-11,00:14:18,Mariana Bach,João Paulo,Problema com login,Encerrado,4,4,7
+2019-04-04,2019-04-09,00:02:58,Roberto Suzano,João Paulo,Conexão lenta,Encerrado,4,4,5
+2019-04-04,2019-04-08,00:03:07,Luiz Rodrigues de Souza,Diego Amorim,Pagamento,Cancelado,4,4,4
+2019-04-05,2019-04-09,00:04:42,Nicolas Conceição Leite,João Paulo,Conexão lenta,Encerrado,4,5,4
+2019-04-05,2019-04-06,00:04:17,Eduardo da Cunha,Diego Amorim,Cancelar usuário,Encerrado,4,5,1
+2019-04-05,2019-04-08,00:05:46,Juan Santos Rosa,Carol Espinosa,Pagamento,Encerrado,4,5,3
+2019-04-06,2019-04-06,00:13:09,Lucas Duarte,João Paulo,Dúvidas/Outros,Encerrado,4,6,0
+2019-04-06,2019-04-16,00:09:46,Daniel Thuler,João Paulo,Conexão lenta,Encerrado,4,6,10
+2019-04-06,2019-04-08,00:05:03,Rafael Oliveira Leite Silva,João Paulo,Problema com login,Encerrado,4,6,2
+2019-04-06,2019-04-13,00:02:45,Lucas Martins,Alon Pinheiro,Dúvidas/Outros,Encerrado,4,6,7
+2019-04-06,2019-04-07,00:08:24,Beatriz Rodrigues,Diego Amorim,Dúvidas/Outros,Encerrado,4,6,1
+2019-04-06,2019-04-08,00:02:11,Catarina Virginio,Diego Amorim,Dúvidas/Outros,Encerrado,4,6,2
+2019-04-06,2019-04-06,00:06:50,Luiza Monnerat,Carol Espinosa,Conexão lenta,Encerrado,4,6,0
+2019-04-07,2019-04-08,00:04:50,Victor Bezerra,Camila Pereira,Conexão lenta,Encerrado,4,7,1
+2019-04-07,2019-04-11,00:03:34,Breno Franklin da Silva,João Paulo,Conexão lenta,Encerrado,4,7,4
+2019-04-08,2019-04-11,00:06:22,Luiz Gonçalves,João Paulo,Conexão lenta,Sem resposta,4,8,3
+2019-04-08,2019-04-10,00:08:43,Fernanda Rocha,Diego Amorim,Conexão lenta,Cancelado,4,8,2
+2019-04-08,2019-04-12,00:04:59,Átila Aquino de Carvalho,Diego Amorim,Problema com login,Encerrado,4,8,4
+2019-04-08,2019-04-08,00:01:35,João Rodrigues,Diego Amorim,Conexão lenta,Encerrado,4,8,0
+2019-04-08,2019-04-08,00:04:19,Lucas Bach,Carol Espinosa,Conexão lenta,Encerrado,4,8,0
+2019-04-09,2019-04-09,00:07:48,Maryanna Ferraz,Heitor Prado,Conexão lenta,Cancelado,4,9,0
+2019-04-09,2019-04-10,00:04:25,Elaine de Aragao,João Paulo,Pagamento,Encerrado,4,9,1
+2019-04-09,2019-04-16,00:06:53,Mariana Bach,Diego Amorim,Conexão lenta,Encerrado,4,9,7
+2019-04-11,2019-04-13,00:01:55,Daniel Thuler,Heitor Prado,Dúvidas/Outros,Cancelado,4,11,2
+2019-04-11,2019-04-15,00:13:07,Pedro Jardim,João Paulo,Pagamento,Encerrado,4,11,4
+2019-04-11,2019-04-11,00:05:23,Leandro Tabet,João Paulo,Conexão lenta,Encerrado,4,11,0
+2019-04-12,2019-04-13,00:07:13,Gabriela Costa,Heitor Prado,Pagamento,Encerrado,4,12,1
+2019-04-12,2019-04-20,00:07:30,Luis Morgado,João Paulo,Conexão lenta,Encerrado,4,12,8
+2019-04-12,2019-04-13,00:05:11,Camila Fonseca Martinez,Carol Espinosa,Alterar senha,Cancelado,4,12,1
+2019-04-13,2019-04-13,00:13:46,Andre Junior,Heitor Prado,Conexão lenta,Encerrado,4,13,0
+2019-04-14,2019-04-14,00:14:07,João Ramos,João Paulo,Dúvidas/Outros,Encerrado,4,14,0
+2019-04-15,2019-04-19,00:02:46,Nathalia Melo Eiras,Heitor Prado,Conexão lenta,Encerrado,4,15,4
+2019-04-15,2019-04-21,00:06:21,Débora Pereira Ribeiro,Diego Amorim,Dúvidas/Outros,Cancelado,4,15,6
+2019-04-15,2019-04-17,00:03:20,Bianca Aguiar,Diego Amorim,Cancelar usuário,Cancelado,4,15,2
+2019-04-16,2019-04-17,00:06:47,Beatriz Machado Araujo,João Paulo,Conexão lenta,Encerrado,4,16,1
+2019-04-16,2019-04-16,00:05:12,Pedro da Silva ,João Paulo,Pagamento,Encerrado,4,16,0
+2019-04-16,2019-04-17,00:01:07,Matheus de Souza Fróes,João Paulo,Conexão lenta,Encerrado,4,16,1
+2019-04-16,2019-04-25,00:08:59,Gabriel Castro Cerqueira,Carol Espinosa,Conexão lenta,Encerrado,4,16,9
+2019-04-16,2019-04-17,00:05:57,Camila Regis Ivo,Carol Espinosa,Dúvidas/Outros,Encerrado,4,16,1
+2019-04-17,2019-04-24,00:09:46,João de Araújo  ,Heitor Prado,Conexão lenta,Encerrado,4,17,7
+2019-04-17,2019-04-18,00:03:17,Gabriela Costa,João Paulo,Conexão lenta,Encerrado,4,17,1
+2019-04-17,2019-04-20,00:03:22,Michelle Zerbinato,Diego Amorim,Conexão lenta,Encerrado,4,17,3
+2019-04-17,2019-04-22,00:01:02,Lucas Bach,Diego Amorim,Conexão lenta,Encerrado,4,17,5
+2019-04-18,2019-04-18,00:03:27,Daniel Thuler,Camila Pereira,Dúvidas/Outros,Encerrado,4,18,0
+2019-04-18,2019-04-19,00:05:22,Lais Cormack,Heitor Prado,Conexão lenta,Sem resposta,4,18,1
+2019-04-18,2019-04-18,00:06:53,Juan Santos Rosa,João Paulo,Conexão lenta,Encerrado,4,18,0
+2019-04-18,2019-04-19,00:04:04,Helena Carramanhos Peixoto ,João Paulo,Problema com login,Encerrado,4,18,1
+2019-04-18,2019-04-21,00:05:01,Débora Pereira Ribeiro,Diego Amorim,Cancelar usuário,Encerrado,4,18,3
+2019-04-19,2019-04-21,00:01:54,Rômulo Pedrazza,Camila Pereira,Conexão lenta,Encerrado,4,19,2
+2019-04-19,2019-04-29,00:09:09,Manuela Tavares,João Paulo,Pagamento,Sem resposta,4,19,10
+2019-04-19,2019-04-20,00:09:49,Rodrigo Barreto,Diego Amorim,Dúvidas/Outros,Encerrado,4,19,1
+2019-04-19,2019-04-20,00:01:30,Lucas Duarte,Diego Amorim,Dúvidas/Outros,Encerrado,4,19,1
+2019-04-19,2019-04-19,00:06:08,Paula Pessanha,Carol Espinosa,Conexão lenta,Cancelado,4,19,0
+2019-04-20,2019-04-28,00:02:50,Victor Bezerra,Carol Espinosa,Problema com login,Encerrado,4,20,8
+2019-04-21,2019-04-29,00:08:50,Marcello Venturini de Freitas,Heitor Prado,Dúvidas/Outros,Cancelado,4,21,8
+2019-04-21,2019-04-28,00:08:13,Marcus de Azevedo,Heitor Prado,Pagamento,Encerrado,4,21,7
+2019-04-21,2019-04-21,00:04:36,Stefan Silva,João Paulo,Conexão lenta,Encerrado,4,21,0
+2019-04-21,2019-04-21,00:04:14,Karine Cardoso das Chagas,João Paulo,Conexão lenta,Encerrado,4,21,0
+2019-04-22,2019-04-22,00:01:00,Isabella de Azevedo Alves,Heitor Prado,Alterar senha,Encerrado,4,22,0
+2019-04-22,2019-04-22,00:05:52,Thiago Fernandes de Araújo,João Paulo,Conexão lenta,Cancelado,4,22,0
+2019-04-22,2019-04-24,00:02:54,Caroline Valente de Figueiredo,Carol Espinosa,Problema com login,Encerrado,4,22,2
+2019-04-23,2019-04-23,00:02:14,Rafael Lobo,Heitor Prado,Problema com login,Encerrado,4,23,0
+2019-04-23,2019-04-25,00:08:57,Marcello Venturini de Freitas,João Paulo,Dúvidas/Outros,Encerrado,4,23,2
+2019-04-23,2019-04-24,00:07:16,Leonardo Valença Castro,Diego Amorim,Dúvidas/Outros,Cancelado,4,23,1
+2019-04-23,2019-04-24,00:03:55,Carolina de Souza Almeida,Diego Amorim,Dúvidas/Outros,Encerrado,4,23,1
+2019-04-23,2019-04-23,00:05:55,João Monteiro,Carol Espinosa,Dúvidas/Outros,Encerrado,4,23,0
+2019-04-24,2019-04-25,00:02:15,Daniel Thuler,Camila Pereira,Pagamento,Encerrado,4,24,1
+2019-04-24,2019-04-26,00:01:23,João Fagundes,Camila Pereira,Dúvidas/Outros,Encerrado,4,24,2
+2019-04-24,2019-05-02,00:05:02,Paula de Sousa Leite,Carol Espinosa,Pagamento,Encerrado,4,24,8
+2019-04-25,2019-04-26,00:03:28,Eduarda Mello,Heitor Prado,Pagamento,Encerrado,4,25,1
+2019-04-25,2019-04-28,00:07:45,Thomaz Campelo da Silva,Diego Amorim,Problema com login,Encerrado,4,25,3
+2019-04-25,2019-04-26,00:02:57,Nathalia Melo Eiras,Diego Amorim,Problema com login,Encerrado,4,25,1
+2019-04-26,2019-04-27,00:07:16,Beatriz Machado Araujo,João Paulo,Cancelar usuário,Cancelado,4,26,1
+2019-04-26,2019-04-27,00:05:20,Fernanda Castro Morett Ceppas,João Paulo,Conexão lenta,Encerrado,4,26,1
+2019-04-26,2019-04-27,00:03:14,Carolina Araujo Sagrillo,João Paulo,Dúvidas/Outros,Encerrado,4,26,1
+2019-04-26,2019-05-06,00:04:44,Camilla Ferraz,Diego Amorim,Dúvidas/Outros,Encerrado,4,26,10
+2019-04-27,2019-04-28,00:04:29,João Resinente,Heitor Prado,Conexão lenta,Sem resposta,4,27,1
+2019-04-27,2019-04-27,00:01:17,Paloma Albano,Alon Pinheiro,Conexão lenta,Sem resposta,4,27,0
+2019-04-27,2019-04-29,00:03:23,Rafael Oliveira Leite Silva,Carol Espinosa,Dúvidas/Outros,Encerrado,4,27,2
+2019-04-28,2019-04-28,00:04:24,Carolina Fontes,Camila Pereira,Dúvidas/Outros,Encerrado,4,28,0
+2019-04-28,2019-04-28,00:03:23,Gabriela e Alves,Camila Pereira,Pagamento,Sem resposta,4,28,0
+2019-04-28,2019-05-02,00:03:34,Rômulo Pedrazza,Diego Amorim,Conexão lenta,Encerrado,4,28,4
+2019-04-29,2019-05-02,00:04:37,Rafael Soares dos Santos,Heitor Prado,Conexão lenta,Cancelado,4,29,3
+2019-04-29,2019-04-30,00:01:23,Lucas Brum Pereira,João Paulo,Conexão lenta,Encerrado,4,29,1
+2019-04-29,2019-05-06,00:06:14,André dos Santos Pereira Brito,Diego Amorim,Problema com login,Encerrado,4,29,7
+2019-04-30,2019-05-01,00:03:36,Thomaz Campelo da Silva,João Paulo,Cancelar usuário,Encerrado,4,30,1
+2019-04-30,2019-05-01,00:01:57,Joana Guimarães,João Paulo,Conexão lenta,Encerrado,4,30,1
+2019-04-30,2019-04-30,00:08:37,Guilherme Nunez,Carol Espinosa,Problema com login,Cancelado,4,30,0
+2019-04-30,2019-05-03,00:07:58,Matheus Rodrigues Luiz,Carol Espinosa,Problema com login,Cancelado,4,30,3
+2019-04-30,2019-05-09,00:03:14,Renan Assis da Silva,Carol Espinosa,Conexão lenta,Sem resposta,4,30,9
+2019-05-01,2019-05-04,00:04:04,Julia Valim,Camila Pereira,Problema com login,Cancelado,5,1,3
+2019-05-01,2019-05-02,00:07:27,Nathalia Melo Eiras,João Paulo,Pagamento,Cancelado,5,1,1
+2019-05-01,2019-05-02,00:03:03,Suelen Lander Regasso,Alon Pinheiro,Conexão lenta,Sem resposta,5,1,1
+2019-05-01,2019-05-07,00:02:06,Amanda Rodrigues,Diego Amorim,Pagamento,Encerrado,5,1,6
+2019-05-02,2019-05-03,00:03:27,Nathalia Melo Eiras,João Paulo,Conexão lenta,Encerrado,5,2,1
+2019-05-02,2019-05-02,00:01:21,Thalles Jordão Teixeira,Diego Amorim,Conexão lenta,Encerrado,5,2,0
+2019-05-03,2019-05-05,00:07:41,Maria Leite Ursulino,Heitor Prado,Problema com login,Encerrado,5,3,2
+2019-05-03,2019-05-04,00:04:42,Átila Aquino de Carvalho,Diego Amorim,Conexão lenta,Encerrado,5,3,1
+2019-05-03,2019-05-04,00:03:56,Geam Petraglia da Silva,Diego Amorim,Dúvidas/Outros,Encerrado,5,3,1
+2019-05-03,2019-05-04,00:08:13,Carolina Marques,Carol Espinosa,Dúvidas/Outros,Cancelado,5,3,1
+2019-05-04,2019-05-05,00:01:07,Paloma Albano,Camila Pereira,Conexão lenta,Encerrado,5,4,1
+2019-05-05,2019-05-12,00:03:46,Daniel Thuler,João Paulo,Problema com login,Encerrado,5,5,7
+2019-05-06,2019-05-07,00:03:34,Bruno Cunha Felippe,Camila Pereira,Problema com login,Cancelado,5,6,1
+2019-05-06,2019-05-10,00:06:22,Andressa Queiroz Israel,Heitor Prado,Conexão lenta,Encerrado,5,6,4
+2019-05-06,2019-05-07,00:05:54,Joāo Leite Ursulino,Carol Espinosa,Pagamento,Encerrado,5,6,1
+2019-05-07,2019-05-10,00:01:06,Lucas Luca Lima Barbosa,João Paulo,Pagamento,Encerrado,5,7,3
+2019-05-07,2019-05-08,00:05:16,Milena Fernandes,Diego Amorim,Conexão lenta,Cancelado,5,7,1
+2019-05-07,2019-05-12,00:03:13,Luís Werneck,Diego Amorim,Conexão lenta,Encerrado,5,7,5
+2019-05-07,2019-05-07,00:03:06,Andre Junior,Diego Amorim,Cancelar usuário,Encerrado,5,7,0
+2019-05-07,2019-05-07,00:03:53,Milena Fernandes,Carol Espinosa,Pagamento,Encerrado,5,7,0
+2019-05-08,2019-05-08,00:06:37,Daniela Santos Silva,João Paulo,Conexão lenta,Encerrado,5,8,0
+2019-05-08,2019-05-09,00:02:40,Carolina Calafate,Diego Amorim,Pagamento,Encerrado,5,8,1
+2019-05-08,2019-05-11,00:02:53,João Resinente,Carol Espinosa,Reembolso,Encerrado,5,8,3
+2019-05-09,2019-05-10,00:08:56,Vitor de Carvalho,João Paulo,Cancelar usuário,Encerrado,5,9,1
+2019-05-10,2019-05-11,00:04:30,Luiza Garcia Soares,Diego Amorim,Problema com login,Encerrado,5,10,1
+2019-05-10,2019-05-15,00:03:06,Marianna Pereira da Silva,Diego Amorim,Pagamento,Cancelado,5,10,5
+2019-05-10,2019-05-17,00:02:05,Giovana Marinho,Diego Amorim,Problema com login,Encerrado,5,10,7
+2019-05-10,2019-05-13,00:05:16,Paloma Albano,Carol Espinosa,Pagamento,Encerrado,5,10,3
+2019-05-11,2019-05-18,00:12:47,Guilherme Araujo Kelly,Heitor Prado,Pagamento,Encerrado,5,11,7
+2019-05-11,2019-05-15,00:11:59,Natalia Indelicato,João Paulo,Pagamento,Encerrado,5,11,4
+2019-05-12,2019-05-13,00:01:03,Nicolas Conceição Leite,João Paulo,Dúvidas/Outros,Sem resposta,5,12,1
+2019-05-13,2019-05-15,00:13:30,André Melo Soledade,João Paulo,Conexão lenta,Encerrado,5,13,2
+2019-05-13,2019-05-19,00:03:47,Ramon De Moraes Bergara,João Paulo,Cancelar usuário,Encerrado,5,13,6
+2019-05-13,2019-05-17,00:03:50,Daniel Thuler,Carol Espinosa,Dúvidas/Outros,Encerrado,5,13,4
+2019-05-14,2019-05-14,00:09:29,Raphael Rodrigues,Heitor Prado,Conexão lenta,Encerrado,5,14,0
+2019-05-14,2019-05-14,00:02:31,Helena Carramanhos Peixoto ,João Paulo,Pagamento,Encerrado,5,14,0
+2019-05-14,2019-05-14,00:05:34,Giovana Marinho,Diego Amorim,Conexão lenta,Encerrado,5,14,0
+2019-05-15,2019-05-16,00:04:15,João de Souza,João Paulo,Conexão lenta,Cancelado,5,15,1
+2019-05-15,2019-05-16,00:05:25,Gabriela Gômara,Diego Amorim,Pagamento,Encerrado,5,15,1
+2019-05-15,2019-05-16,00:03:45,Carolina Venceslau Santos de Gusmão,Diego Amorim,Dúvidas/Outros,Cancelado,5,15,1
+2019-05-16,2019-05-22,00:02:36,Ramon Vaz,Alon Pinheiro,Conexão lenta,Sem resposta,5,16,6
+2019-05-17,2019-05-19,00:03:05,Sarah de Carvalho Gomes,Heitor Prado,Dúvidas/Outros,Sem resposta,5,17,2
+2019-05-17,2019-05-17,00:09:56,Júlia Oliveira de Mello Silva,João Paulo,Conexão lenta,Encerrado,5,17,0
+2019-05-17,2019-05-17,00:06:23,Gustavo de Melo Teixeira,Carol Espinosa,Conexão lenta,Cancelado,5,17,0
+2019-05-18,2019-05-19,00:07:08,José Guimarães,Heitor Prado,Reembolso,Encerrado,5,18,1
+2019-05-18,2019-05-19,00:07:48,João Negrelli,João Paulo,Problema com login,Encerrado,5,18,1
+2019-05-18,2019-05-24,00:02:57,Flávia Jordao,João Paulo,Dúvidas/Outros,Encerrado,5,18,6
+2019-05-18,2019-05-22,00:02:22,Carlos Mota,João Paulo,Conexão lenta,Encerrado,5,18,4
+2019-05-19,2019-05-23,00:08:24,Ana de Sá Foly,João Paulo,Pagamento,Cancelado,5,19,4
+2019-05-19,2019-05-19,00:01:57,Matheus Matta Marques,João Paulo,Pagamento,Sem resposta,5,19,0
+2019-05-19,2019-05-20,00:06:45,Eduardo Brum,Carol Espinosa,Conexão lenta,Encerrado,5,19,1
+2019-05-20,2019-05-24,00:05:29,Livia Mello,Heitor Prado,Pagamento,Encerrado,5,20,4
+2019-05-20,2019-05-21,00:03:53,Pedro da Silva ,João Paulo,Problema com login,Encerrado,5,20,1
+2019-05-20,2019-05-20,00:01:29,Cynthia Alvim,João Paulo,Dúvidas/Outros,Encerrado,5,20,0
+2019-05-21,2019-05-28,00:06:05,Matheus de Souza Fróes,Alon Pinheiro,Pagamento,Encerrado,5,21,7
+2019-05-21,2019-05-22,00:02:29,Carlos Mota,Carol Espinosa,Conexão lenta,Cancelado,5,21,1
+2019-05-22,2019-05-26,00:05:39,Carolina Marques,João Paulo,Conexão lenta,Encerrado,5,22,4
+2019-05-23,2019-06-01,00:09:34,Andre Junior,João Paulo,Dúvidas/Outros,Sem resposta,5,23,9
+2019-05-23,2019-05-24,00:07:03,Rafael Carrera,João Paulo,Alterar senha,Cancelado,5,23,1
+2019-05-23,2019-06-01,00:06:38,Lucas Bach,João Paulo,Conexão lenta,Encerrado,5,23,9
+2019-05-23,2019-05-24,00:05:48,Andre Campos,João Paulo,Conexão lenta,Encerrado,5,23,1
+2019-05-24,2019-05-28,00:03:05,Gabriel Pereira,João Paulo,Reembolso,Encerrado,5,24,4
+2019-05-25,2019-05-26,00:03:04,Juliana Rodrigues,Camila Pereira,Conexão lenta,Encerrado,5,25,1
+2019-05-25,2019-05-28,00:09:05,Gabriel Mesquita,João Paulo,Conexão lenta,Encerrado,5,25,3
+2019-05-25,2019-06-01,00:03:53,Suelen Lander Regasso,João Paulo,Cancelar usuário,Sem resposta,5,25,7
+2019-05-25,2019-05-26,00:08:59,Daniel Alvarenga dos Santos,Alon Pinheiro,Conexão lenta,Cancelado,5,25,1
+2019-05-26,2019-05-27,00:07:04,Iasmim Jacques Gamboa Fernandez de Oliveira Netto,João Paulo,Dúvidas/Outros,Encerrado,5,26,1
+2019-05-26,2019-05-29,00:05:14,Guilherme Nunez,Diego Amorim,Dúvidas/Outros,Encerrado,5,26,3
+2019-05-27,2019-05-28,00:03:04,Clarissa Ferreira,Camila Pereira,Dúvidas/Outros,Cancelado,5,27,1
+2019-05-27,2019-05-29,00:03:04,Hannah de Oliveira,Camila Pereira,Conexão lenta,Encerrado,5,27,2
+2019-05-27,2019-05-29,00:09:05,Pedro Jardim,Diego Amorim,Conexão lenta,Encerrado,5,27,2
+2019-05-27,2019-05-27,00:07:33,Isabella de Azevedo Alves,Diego Amorim,Conexão lenta,Cancelado,5,27,0
+2019-05-27,2019-06-03,00:07:14,Lucas Alvarenga dos Santos,Carol Espinosa,Conexão lenta,Encerrado,5,27,7
+2019-05-27,2019-05-27,00:05:06,Francyne Souza,Carol Espinosa,Dúvidas/Outros,Encerrado,5,27,0
+2019-05-28,2019-05-30,00:02:26,Ana de Almeida Fournier de Assis,João Paulo,Pagamento,Cancelado,5,28,2
+2019-05-29,2019-06-02,00:03:58,Juliana Rodrigues,Heitor Prado,Cancelar usuário,Encerrado,5,29,4
+2019-05-30,2019-06-01,00:01:43,Juliana Vieira Filho,Heitor Prado,Problema com login,Encerrado,5,30,2
+2019-05-30,2019-05-31,00:08:26,Matheus Sepúlveda,João Paulo,Dúvidas/Outros,Encerrado,5,30,1
+2019-05-30,2019-06-04,00:07:06,Juliana Rodrigues,João Paulo,Conexão lenta,Encerrado,5,30,5
+2019-05-30,2019-05-30,00:08:38,Thaís Restum,Diego Amorim,Conexão lenta,Encerrado,5,30,0
+2019-05-31,2019-06-02,00:03:04,André dos Santos Pereira Brito,Camila Pereira,Problema com login,Encerrado,5,31,2
+2019-05-31,2019-06-05,00:09:10,Daniele Blumberg,Alon Pinheiro,Dúvidas/Outros,Encerrado,5,31,5
+2019-05-31,2019-06-05,00:03:09,Roberta Vaz,Diego Amorim,Conexão lenta,Encerrado,5,31,5
+2019-06-01,2019-06-05,00:03:54,Guilherme Araujo Kelly,Diego Amorim,Problema com login,Encerrado,6,1,4
+2019-06-02,2019-06-05,00:03:04,Filipe Tabet,Camila Pereira,Problema com login,Encerrado,6,2,3
+2019-06-02,2019-06-05,00:08:33,Mariana Bach,João Paulo,Pagamento,Encerrado,6,2,3
+2019-06-02,2019-06-03,00:07:07,Gabriela Coutinho,João Paulo,Dúvidas/Outros,Encerrado,6,2,1
+2019-06-02,2019-06-03,00:04:20,Thiago Fernandes de Araújo,Alon Pinheiro,Reembolso,Encerrado,6,2,1
+2019-06-02,2019-06-04,00:12:29,Mariana Garcia Soares,Diego Amorim,Conexão lenta,Encerrado,6,2,2
+2019-06-03,2019-06-04,00:03:04,Geam Petraglia da Silva,Camila Pereira,Reembolso,Encerrado,6,3,1
+2019-06-03,2019-06-06,00:07:26,Caio Stellet,João Paulo,Cancelar usuário,Encerrado,6,3,3
+2019-06-03,2019-06-08,00:04:39,Gil Bonder,Diego Amorim,Dúvidas/Outros,Encerrado,6,3,5
+2019-06-04,2019-06-05,00:03:02,Guilherme Delgado,Diego Amorim,Dúvidas/Outros,Cancelado,6,4,1
+2019-06-05,2019-06-09,00:08:01,Gabriela de Souza Campos,João Paulo,Dúvidas/Outros,Encerrado,6,5,4
+2019-06-05,2019-06-06,00:08:21,Bruno Paes Leme,Alon Pinheiro,Dúvidas/Outros,Cancelado,6,5,1
+2019-06-05,2019-06-08,00:04:11,Poline Limp,Diego Amorim,Conexão lenta,Cancelado,6,5,3
+2019-06-05,2019-06-12,00:06:46,Maryanna Ferraz,Carol Espinosa,Conexão lenta,Encerrado,6,5,7
+2019-06-07,2019-06-07,00:04:15,Eduarda Mello,João Paulo,Dúvidas/Outros,Encerrado,6,7,0
+2019-06-07,2019-06-07,00:04:04,Douglas Costa,João Paulo,Dúvidas/Outros,Encerrado,6,7,0
+2019-06-07,2019-06-07,00:02:26,Aline de Souza,Diego Amorim,Dúvidas/Outros,Encerrado,6,7,0
+2019-06-08,2019-06-09,00:03:04,Caio Scalabrin,Camila Pereira,Cancelar usuário,Encerrado,6,8,1
+2019-06-08,2019-06-13,00:02:12,Eduarda Mello,João Paulo,Alterar senha,Cancelado,6,8,5
+2019-06-08,2019-06-12,00:09:01,João Silva Longo de Jesus Viana,Alon Pinheiro,Conexão lenta,Encerrado,6,8,4
+2019-06-08,2019-06-11,00:03:52,Jessica Oliveira Lima,Alon Pinheiro,Dúvidas/Outros,Encerrado,6,8,3
+2019-06-10,2019-06-11,00:03:04,Raquel Tavares,Camila Pereira,Conexão lenta,Encerrado,6,10,1
+2019-06-10,2019-06-11,00:06:04,Carolina Gonçalves Lixa Fontoura,Diego Amorim,Dúvidas/Outros,Sem resposta,6,10,1
+2019-06-11,2019-06-14,00:03:04,Caio Oliveira Meirelles,Camila Pereira,Problema com login,Cancelado,6,11,3
+2019-06-11,2019-06-11,00:08:03,Rodrigo dos Santos Villares Vianna,Diego Amorim,Conexão lenta,Encerrado,6,11,0
+2019-06-12,2019-06-15,00:04:20,Rafael Viana Santos,Heitor Prado,Problema com login,Encerrado,6,12,3
+2019-06-12,2019-06-15,00:04:25,Luiza Sobrinho Pereira,Diego Amorim,Cancelar usuário,Encerrado,6,12,3
+2019-06-13,2019-06-21,00:03:02,Marcelo Monnerat,Camila Pereira,Conexão lenta,Encerrado,6,13,8
+2019-06-13,2019-06-18,00:02:10,Maria Freire de Souza,Camila Pereira,Dúvidas/Outros,Sem resposta,6,13,5
+2019-06-13,2019-06-16,00:03:13,Rodrigo da Silva,Heitor Prado,Conexão lenta,Sem resposta,6,13,3
+2019-06-13,2019-06-15,00:10:11,Matheus Pereira dos Santos,João Paulo,Problema com login,Encerrado,6,13,2
+2019-06-13,2019-06-20,00:07:46,Matheus Matta Marques,Alon Pinheiro,Conexão lenta,Encerrado,6,13,7
+2019-06-14,2019-06-22,00:06:29,João Barbosa,João Paulo,Dúvidas/Outros,Cancelado,6,14,8
+2019-06-14,2019-06-19,00:01:33,Leonardo de Paula,João Paulo,Conexão lenta,Cancelado,6,14,5
+2019-06-14,2019-06-15,00:08:05,Luana Stockler,Diego Amorim,Alterar senha,Cancelado,6,14,1
+2019-06-14,2019-06-16,00:03:22,Manuela Tavares,Diego Amorim,Conexão lenta,Encerrado,6,14,2
+2019-06-14,2019-06-14,00:02:35,Eduarda Mello,Diego Amorim,Dúvidas/Outros,Encerrado,6,14,0
+2019-06-14,2019-06-18,00:01:24,Luiz Ladogano,Diego Amorim,Dúvidas/Outros,Encerrado,6,14,4
+2019-06-15,2019-06-17,00:02:18,Renata Lopes de Oliveira,Heitor Prado,Problema com login,Encerrado,6,15,2
+2019-06-15,2019-06-15,00:01:23,Beatriz Rodrigues,João Paulo,Dúvidas/Outros,Encerrado,6,15,0
+2019-06-15,2019-06-22,00:02:48,Vinícius Maluf,Carol Espinosa,Dúvidas/Outros,Cancelado,6,15,7
+2019-06-16,2019-06-23,00:09:33,José Guimarães,João Paulo,Problema com login,Encerrado,6,16,7
+2019-06-17,2019-06-17,00:04:15,Nathalia Melo Eiras,João Paulo,Conexão lenta,Encerrado,6,17,0
+2019-06-17,2019-06-19,00:04:45,Gustavo de Melo Teixeira,Alon Pinheiro,Alterar senha,Encerrado,6,17,2
+2019-06-17,2019-06-17,00:06:47,Milena Fernandes,Diego Amorim,Pagamento,Encerrado,6,17,0
+2019-06-18,2019-06-26,00:13:27,Camila Fonseca Martinez,Heitor Prado,Conexão lenta,Encerrado,6,18,8
+2019-06-18,2019-06-21,00:14:30,Guilherme Delgado,João Paulo,Dúvidas/Outros,Cancelado,6,18,3
+2019-06-18,2019-06-18,00:11:11,Luiz Costa Vasconcellos,Diego Amorim,Alterar senha,Encerrado,6,18,0
+2019-06-18,2019-06-18,00:04:03,Fillipe Tupini,Diego Amorim,Dúvidas/Outros,Encerrado,6,18,0
+2019-06-19,2019-06-25,00:13:08,Carolina da Silva,Heitor Prado,Reembolso,Cancelado,6,19,6
+2019-06-19,2019-06-27,00:08:09,Lucas Short Santa Cecilia,Heitor Prado,Alterar senha,Cancelado,6,19,8
+2019-06-19,2019-06-20,00:04:48,Amanda Marinho,Diego Amorim,Conexão lenta,Encerrado,6,19,1
+2019-06-19,2019-06-20,00:02:54,José Guimarães,Diego Amorim,Cancelar usuário,Encerrado,6,19,1
+2019-06-21,2019-06-24,00:07:19,Eduardo Luz,João Paulo,Conexão lenta,Encerrado,6,21,3
+2019-06-21,2019-06-22,00:07:09,Gabriela Costa,João Paulo,Reembolso,Encerrado,6,21,1
+2019-06-21,2019-06-27,00:04:38,Flávio Fontes,João Paulo,Alterar senha,Encerrado,6,21,6
+2019-06-21,2019-06-23,00:01:21,Luiz Costa Vasconcellos,Diego Amorim,Dúvidas/Outros,Cancelado,6,21,2
+2019-06-22,2019-06-26,00:12:37,Daniele Blumberg,Heitor Prado,Conexão lenta,Cancelado,6,22,4
+2019-06-22,2019-06-24,00:03:52,Daniel Lopes da Silveira ,Heitor Prado,Conexão lenta,Cancelado,6,22,2
+2019-06-22,2019-06-23,00:09:03,João Negrelli,João Paulo,Problema com login,Encerrado,6,22,1
+2019-06-22,2019-06-22,00:05:30,Bruna Tavares Vasconcelos,Alon Pinheiro,Problema com login,Encerrado,6,22,0
+2019-06-22,2019-06-27,00:02:23,Marianna Pereira da Silva,Diego Amorim,Dúvidas/Outros,Encerrado,6,22,5
+2019-06-22,2019-06-22,00:01:00,João Resinente,Diego Amorim,Dúvidas/Outros,Cancelado,6,22,0
+2019-06-22,2019-06-22,00:11:43,José Guimarães,Carol Espinosa,Cancelar usuário,Encerrado,6,22,0
+2019-06-23,2019-06-27,00:07:03,Lígia Fernandes Filardi,João Paulo,Dúvidas/Outros,Encerrado,6,23,4
+2019-06-23,2019-06-23,00:02:57,Geam Petraglia da Silva,João Paulo,Conexão lenta,Encerrado,6,23,0
+2019-06-23,2019-06-24,00:08:14,Diego de Melo Teixeira,Diego Amorim,Pagamento,Cancelado,6,23,1
+2019-06-23,2019-06-23,00:06:35,Nicole Marquito de Paiva Torres,Diego Amorim,Dúvidas/Outros,Encerrado,6,23,0
+2019-06-23,2019-06-23,00:02:23,Luis Azevedo,Diego Amorim,Dúvidas/Outros,Cancelado,6,23,0
+2019-06-24,2019-06-24,00:08:10,Lorena Fernandes,Heitor Prado,Dúvidas/Outros,Encerrado,6,24,0
+2019-06-24,2019-06-29,00:02:47,Paula Gonçalves Gomes,Alon Pinheiro,Dúvidas/Outros,Encerrado,6,24,5
+2019-06-24,2019-06-29,00:04:00,Douglas Costa,Diego Amorim,Reembolso,Encerrado,6,24,5
+2019-06-24,2019-06-24,00:07:03,Beatriz Rodrigues,Carol Espinosa,Conexão lenta,Encerrado,6,24,0
+2019-06-24,2019-06-28,00:03:19,Luiz Rodrigues Chaves,Carol Espinosa,Conexão lenta,Encerrado,6,24,4
+2019-06-26,2019-06-27,00:03:53,Matheus Sone,Heitor Prado,Dúvidas/Outros,Sem resposta,6,26,1
+2019-06-26,2019-06-27,00:09:01,Patricia Jorge,Diego Amorim,Pagamento,Encerrado,6,26,1
+2019-06-27,2019-06-27,00:07:55,Mariana Schwenck Gullo,Heitor Prado,Problema com login,Encerrado,6,27,0
+2019-06-27,2019-06-27,00:03:37,Beatriz Rodrigues,João Paulo,Conexão lenta,Encerrado,6,27,0
+2019-06-27,2019-06-27,00:03:22,Lucas Alvarenga dos Santos,Diego Amorim,Pagamento,Encerrado,6,27,0
+2019-06-28,2019-06-29,00:03:33,Carolina Araujo Sagrillo,Alon Pinheiro,Dúvidas/Outros,Sem resposta,6,28,1
+2019-06-29,2019-06-30,00:03:15,Bruno Sobrinho Pereira,Alon Pinheiro,Conexão lenta,Encerrado,6,29,1
+2019-06-29,2019-06-30,00:07:19,Leandro Almeida Neri,Diego Amorim,Problema com login,Sem resposta,6,29,1
+2019-06-29,2019-07-01,00:09:34,João Suzano,Carol Espinosa,Problema com login,Encerrado,6,29,2
+2019-06-30,2019-07-06,00:02:42,Ana de Sá Foly,Camila Pereira,Dúvidas/Outros,Encerrado,6,30,6
+2019-06-30,2019-06-30,00:04:37,Mauricio Jardim,João Paulo,Dúvidas/Outros,Encerrado,6,30,0
+2019-06-30,2019-07-02,00:04:23,Bárbara Rodrigues,João Paulo,Pagamento,Encerrado,6,30,2
+2019-06-30,2019-06-30,00:05:19,Lucas Brum Pereira,Diego Amorim,Dúvidas/Outros,Encerrado,6,30,0
+2019-07-01,2019-07-01,00:03:09,José Guimarães,João Paulo,Problema com login,Cancelado,7,1,0
+2019-07-01,2019-07-03,00:06:08,Tomas Guadagnino,Diego Amorim,Conexão lenta,Sem resposta,7,1,2
+2019-07-02,2019-07-02,00:05:43,Brenda Lopes,Heitor Prado,Dúvidas/Outros,Encerrado,7,2,0
+2019-07-02,2019-07-07,00:03:58,André dos Santos Pereira Brito,Alon Pinheiro,Pagamento,Encerrado,7,2,5
+2019-07-03,2019-07-03,00:05:18,Sarah de Carvalho Gomes,Camila Pereira,Problema com login,Encerrado,7,3,0
+2019-07-03,2019-07-06,00:05:44,Pedro Fontes,Heitor Prado,Problema com login,Encerrado,7,3,3
+2019-07-03,2019-07-06,00:01:10,Matheus Andrade Machado ,Heitor Prado,Conexão lenta,Cancelado,7,3,3
+2019-07-03,2019-07-07,00:09:40,Juliana Rodrigues,Diego Amorim,Conexão lenta,Encerrado,7,3,4
+2019-07-03,2019-07-08,00:03:03,Maria Leite Ursulino,Diego Amorim,Pagamento,Encerrado,7,3,5
+2019-07-04,2019-07-04,00:02:56,Caroline Gaspar de Mattos      ,Heitor Prado,Dúvidas/Outros,Cancelado,7,4,0
+2019-07-04,2019-07-04,00:02:46,Bruna Tavares Vasconcelos,João Paulo,Dúvidas/Outros,Encerrado,7,4,0
+2019-07-04,2019-07-05,00:01:32,Bruna Jimenez Jimbo,João Paulo,Pagamento,Cancelado,7,4,1
+2019-07-04,2019-07-05,00:10:39,Rafael Rodrigues de Sousa,Alon Pinheiro,Dúvidas/Outros,Encerrado,7,4,1
+2019-07-04,2019-07-04,00:07:12,Renan Taylor,Diego Amorim,Dúvidas/Outros,Encerrado,7,4,0
+2019-07-05,2019-07-05,00:08:27,João Cavalcanti Alves,Alon Pinheiro,Problema com login,Encerrado,7,5,0
+2019-07-05,2019-07-05,00:01:54,Marta Fahrnholz,Alon Pinheiro,Conexão lenta,Encerrado,7,5,0
+2019-07-06,2019-07-06,00:08:29,Andre Campos,Diego Amorim,Conexão lenta,Encerrado,7,6,0
+2019-07-06,2019-07-12,00:05:41,Igor Feijo,Carol Espinosa,Conexão lenta,Encerrado,7,6,6
+2019-07-07,2019-07-08,00:09:01,Rafael Lobo,Diego Amorim,Conexão lenta,Encerrado,7,7,1
+2019-07-07,2019-07-07,00:04:03,Ana Bernardo,Diego Amorim,Conexão lenta,Encerrado,7,7,0
+2019-07-07,2019-07-08,00:01:04,Rafaella Sarmento e Silva,Diego Amorim,Dúvidas/Outros,Encerrado,7,7,1
+2019-07-08,2019-07-14,00:02:44,Francyne Souza,Camila Pereira,Conexão lenta,Encerrado,7,8,6
+2019-07-08,2019-07-08,00:01:30,Maryanna Ferraz,Camila Pereira,Conexão lenta,Sem resposta,7,8,0
+2019-07-08,2019-07-17,00:08:02,Fernanda Castro Morett Ceppas,João Paulo,Dúvidas/Outros,Encerrado,7,8,9
+2019-07-08,2019-07-10,00:05:11,Beatriz Rodrigues,João Paulo,Pagamento,Encerrado,7,8,2
+2019-07-08,2019-07-08,00:09:53,Raquel Tavares,Diego Amorim,Dúvidas/Outros,Encerrado,7,8,0
+2019-07-08,2019-07-14,00:04:40,Joana Guimarães,Carol Espinosa,Problema com login,Encerrado,7,8,6
+2019-07-08,2019-07-10,00:02:35,Carolina Calafate,Carol Espinosa,Conexão lenta,Encerrado,7,8,2
+2019-07-09,2019-07-15,00:07:43,Caio Scalabrin,Alon Pinheiro,Problema com login,Encerrado,7,9,6
+2019-07-09,2019-07-10,00:02:09,Renan Fernandes,Alon Pinheiro,Dúvidas/Outros,Encerrado,7,9,1
+2019-07-09,2019-07-15,00:04:43,Stefan Vargas,Diego Amorim,Alterar senha,Encerrado,7,9,6
+2019-07-10,2019-07-11,00:03:17,Mariana Martins,João Paulo,Problema com login,Sem resposta,7,10,1
+2019-07-10,2019-07-12,00:02:31,Andre Campos,João Paulo,Conexão lenta,Encerrado,7,10,2
+2019-07-10,2019-07-10,00:03:00,Victor Fonseca,Alon Pinheiro,Problema com login,Encerrado,7,10,0
+2019-07-10,2019-07-12,00:01:53,Bruno de Souza,Diego Amorim,Problema com login,Encerrado,7,10,2
+2019-07-10,2019-07-18,00:10:09,Renan Taylor,Carol Espinosa,Conexão lenta,Encerrado,7,10,8
+2019-07-11,2019-07-15,00:11:56,Maryanna Ferraz,João Paulo,Pagamento,Encerrado,7,11,4
+2019-07-11,2019-07-13,00:01:21,Luis Morgado,Alon Pinheiro,Pagamento,Encerrado,7,11,2
+2019-07-11,2019-07-13,00:13:10,Luíza Roussef,Diego Amorim,Dúvidas/Outros,Encerrado,7,11,2
+2019-07-11,2019-07-13,00:05:03,Ana de Almeida Fournier de Assis,Diego Amorim,Conexão lenta,Encerrado,7,11,2
+2019-07-12,2019-07-13,00:04:28,Victor Fonseca,João Paulo,Problema com login,Cancelado,7,12,1
+2019-07-12,2019-07-16,00:02:59,Clarissa Ferreira,Diego Amorim,Dúvidas/Outros,Encerrado,7,12,4
+2019-07-12,2019-07-12,00:01:17,Matheus Carvalho Pinto e Rocha,Diego Amorim,Conexão lenta,Sem resposta,7,12,0
+2019-07-12,2019-07-13,00:04:51,Caroline Gaspar de Mattos      ,Carol Espinosa,Conexão lenta,Encerrado,7,12,1
+2019-07-13,2019-07-14,00:06:13,Amanda Ferreira,Alon Pinheiro,Dúvidas/Outros,Cancelado,7,13,1
+2019-07-13,2019-07-16,00:06:09,João Rodrigues,Diego Amorim,Pagamento,Encerrado,7,13,3
+2019-07-13,2019-07-13,00:01:34,Carolina Monteiro,Diego Amorim,Dúvidas/Outros,Cancelado,7,13,0
+2019-07-14,2019-07-15,00:05:48,Ramon De Moraes Bergara,João Paulo,Dúvidas/Outros,Cancelado,7,14,1
+2019-07-14,2019-07-15,00:02:30,Rafael Rodrigues de Sousa,João Paulo,Conexão lenta,Sem resposta,7,14,1
+2019-07-14,2019-07-15,00:01:31,Carolina Venceslau Santos de Gusmão,Diego Amorim,Conexão lenta,Encerrado,7,14,1
+2019-07-15,2019-07-17,00:04:55,Pedro Domingos,Camila Pereira,Conexão lenta,Encerrado,7,15,2
+2019-07-15,2019-07-18,00:04:12,Larissa Leal Pedrosa,João Paulo,Problema com login,Encerrado,7,15,3
+2019-07-15,2019-07-15,00:02:35,Marina de Godoy,João Paulo,Conexão lenta,Encerrado,7,15,0
+2019-07-15,2019-07-22,00:04:31,Daniel Thuler,Diego Amorim,Pagamento,Encerrado,7,15,7
+2019-07-15,2019-07-18,00:03:10,Caroline Valente de Figueiredo,Carol Espinosa,Conexão lenta,Encerrado,7,15,3
+2019-07-16,2019-07-16,00:02:38,Carolina Gonçalves Lixa Fontoura,Heitor Prado,Dúvidas/Outros,Encerrado,7,16,0
+2019-07-16,2019-07-17,00:11:04,Carolina Calafate,Alon Pinheiro,Cancelar usuário,Encerrado,7,16,1
+2019-07-16,2019-07-25,00:06:54,Desirée Castro Guimarães,Diego Amorim,Dúvidas/Outros,Cancelado,7,16,9
+2019-07-16,2019-07-17,00:01:19,Pedro da Silva ,Diego Amorim,Conexão lenta,Encerrado,7,16,1
+2019-07-16,2019-07-22,00:05:29,Daniele Blumberg,Carol Espinosa,Dúvidas/Outros,Cancelado,7,16,6
+2019-07-17,2019-07-20,00:02:11,Matheus de Souza Fróes,Heitor Prado,Conexão lenta,Encerrado,7,17,3
+2019-07-17,2019-07-17,00:12:26,Lais Cormack,João Paulo,Pagamento,Encerrado,7,17,0
+2019-07-17,2019-07-21,00:08:39,Paloma Agostinho Marques dos Santos,Diego Amorim,Dúvidas/Outros,Cancelado,7,17,4
+2019-07-17,2019-07-18,00:04:54,Luís Werneck,Carol Espinosa,Alterar senha,Sem resposta,7,17,1
+2019-07-17,2019-07-18,00:03:26,Milena Fernandes,Carol Espinosa,Dúvidas/Outros,Cancelado,7,17,1
+2019-07-18,2019-07-19,00:06:23,Mariana Garcia Soares,João Paulo,Dúvidas/Outros,Encerrado,7,18,1
+2019-07-18,2019-07-18,00:02:24,Luiz Ladogano,João Paulo,Problema com login,Encerrado,7,18,0
+2019-07-18,2019-07-18,00:04:19,Ana de Almeida Fournier de Assis,Diego Amorim,Conexão lenta,Cancelado,7,18,0
+2019-07-18,2019-07-19,00:01:13,Daniel Benevides Xavier,Diego Amorim,Conexão lenta,Encerrado,7,18,1
+2019-07-19,2019-07-21,00:05:34,Maryanna Ferraz,Camila Pereira,Conexão lenta,Sem resposta,7,19,2
+2019-07-19,2019-07-22,00:01:16,Lucas Brum Pereira,João Paulo,Dúvidas/Outros,Encerrado,7,19,3
+2019-07-19,2019-07-21,00:08:32,Carolina Venceslau Santos de Gusmão,Carol Espinosa,Conexão lenta,Encerrado,7,19,2
+2019-07-20,2019-07-21,00:03:20,Carolina Araujo Sagrillo,João Paulo,Cancelar usuário,Encerrado,7,20,1
+2019-07-20,2019-07-24,00:03:21,Ana de Almeida Fournier de Assis,Diego Amorim,Conexão lenta,Encerrado,7,20,4
+2019-07-21,2019-07-25,00:04:59,Rafaela de Godoy,Heitor Prado,Problema com login,Encerrado,7,21,4
+2019-07-21,2019-07-21,00:03:42,Debora Penedo,Heitor Prado,Dúvidas/Outros,Encerrado,7,21,0
+2019-07-21,2019-07-21,00:06:37,Audir de Avila Goulart,Diego Amorim,Conexão lenta,Cancelado,7,21,0
+2019-07-21,2019-07-22,00:01:23,Andre Junior,Diego Amorim,Conexão lenta,Cancelado,7,21,1
+2019-07-22,2019-07-25,00:08:37,Eduarda Chagas,Heitor Prado,Conexão lenta,Encerrado,7,22,3
+2019-07-22,2019-07-22,00:03:47,Luíza Roussef,Heitor Prado,Conexão lenta,Encerrado,7,22,0
+2019-07-22,2019-07-23,00:09:55,Beatriz Rodrigues,Diego Amorim,Dúvidas/Outros,Encerrado,7,22,1
+2019-07-22,2019-07-22,00:07:02,André dos Santos Pereira Brito,Diego Amorim,Alterar senha,Cancelado,7,22,0
+2019-07-22,2019-07-22,00:01:30,Rafael Lobo,Diego Amorim,Problema com login,Cancelado,7,22,0
+2019-07-23,2019-07-26,00:07:21,Suelen Lander Regasso,Alon Pinheiro,Problema com login,Encerrado,7,23,3
+2019-07-23,2019-07-28,00:03:58,Fernanda do Nascimento Rocha,Carol Espinosa,Reembolso,Encerrado,7,23,5
+2019-07-24,2019-08-02,00:15:15,Daniel Thuler,João Paulo,Pagamento,Encerrado,7,24,9
+2019-07-24,2019-07-24,00:08:07,Isabella Meirelles,Diego Amorim,Dúvidas/Outros,Encerrado,7,24,0
+2019-07-25,2019-07-26,00:07:00,Amanda de Lacerda,João Paulo,Pagamento,Encerrado,7,25,1
+2019-07-25,2019-07-25,00:06:45,Guilherme Delgado,João Paulo,Pagamento,Encerrado,7,25,0
+2019-07-25,2019-07-26,00:06:15,Beatriz de Lima Oliveira,Diego Amorim,Problema com login,Encerrado,7,25,1
+2019-07-25,2019-07-25,00:04:38,Matheus de Souza Fróes,Diego Amorim,Conexão lenta,Encerrado,7,25,0
+2019-07-25,2019-07-25,00:15:33,Daniel Alvarenga dos Santos,Carol Espinosa,Conexão lenta,Cancelado,7,25,0
+2019-07-25,2019-07-26,00:04:07,Mariana Garcia Soares,Carol Espinosa,Pagamento,Encerrado,7,25,1
+2019-07-26,2019-07-31,00:02:30,João Negrelli,Heitor Prado,Cancelar usuário,Encerrado,7,26,5
+2019-07-26,2019-07-27,00:02:27,Guilherme Nunez,João Paulo,Problema com login,Encerrado,7,26,1
+2019-07-26,2019-07-26,00:02:36,João Pereira Da Silva,Alon Pinheiro,Conexão lenta,Encerrado,7,26,0
+2019-07-26,2019-07-28,00:02:48,Guilherme Lander Regasso,Diego Amorim,Alterar senha,Encerrado,7,26,2
+2019-07-26,2019-07-27,00:02:13,Ana Bernardo,Diego Amorim,Dúvidas/Outros,Encerrado,7,26,1
+2019-07-26,2019-07-27,00:07:49,Carolina Gonçalves Lixa Fontoura,Carol Espinosa,Dúvidas/Outros,Encerrado,7,26,1
+2019-07-27,2019-07-27,00:04:30,Guilherme Lopes da Silveira ,Camila Pereira,Dúvidas/Outros,Encerrado,7,27,0
+2019-07-27,2019-07-27,00:07:23,Carlos Mota,João Paulo,Conexão lenta,Cancelado,7,27,0
+2019-07-27,2019-08-01,00:06:26,Carolina Monteiro,João Paulo,Pagamento,Cancelado,7,27,5
+2019-07-27,2019-08-06,00:01:40,Wesley Oliveira Baptista,Alon Pinheiro,Problema com login,Encerrado,7,27,10
+2019-07-28,2019-08-02,00:02:10,Marcello Jorge Montanholi,Camila Pereira,Cancelar usuário,Encerrado,7,28,5
+2019-07-28,2019-07-28,00:13:10,Carolina Gonçalves Lixa Fontoura,Alon Pinheiro,Alterar senha,Cancelado,7,28,0
+2019-07-28,2019-07-29,00:13:28,Fernanda Santo,Carol Espinosa,Dúvidas/Outros,Encerrado,7,28,1
+2019-07-29,2019-07-29,00:04:26,Lucas Racy,Alon Pinheiro,Dúvidas/Outros,Cancelado,7,29,0
+2019-07-29,2019-07-30,00:01:38,Rafael Lobo,Diego Amorim,Dúvidas/Outros,Encerrado,7,29,1
+2019-07-29,2019-08-01,00:12:46,Eduardo Ramos,Carol Espinosa,Dúvidas/Outros,Encerrado,7,29,3
+2019-07-30,2019-07-30,00:01:43,Leticia Mota,Diego Amorim,Pagamento,Cancelado,7,30,0
+2019-07-31,2019-08-04,00:06:47,Hannah de Oliveira,João Paulo,Reembolso,Encerrado,7,31,4
+2019-07-31,2019-08-03,00:02:56,Guilherme Lopes da Silveira ,João Paulo,Pagamento,Encerrado,7,31,3
+2019-07-31,2019-07-31,00:02:56,Guilherme Nunez,João Paulo,Problema com login,Encerrado,7,31,0
+2019-07-31,2019-08-01,00:07:24,Guilherme Delgado,Alon Pinheiro,Conexão lenta,Encerrado,7,31,1
+2019-07-31,2019-07-31,00:03:28,Beatriz Machado Araujo,Alon Pinheiro,Alterar senha,Encerrado,7,31,0
+2019-08-01,2019-08-03,00:04:32,Amanda Rodrigues,Diego Amorim,Conexão lenta,Encerrado,8,1,2
+2019-08-02,2019-08-07,00:01:51,Guilherme Nunez,Camila Pereira,Dúvidas/Outros,Encerrado,8,2,5
+2019-08-02,2019-08-02,00:06:57,Luiz Costa Vasconcellos,Diego Amorim,Conexão lenta,Encerrado,8,2,0
+2019-08-02,2019-08-02,00:05:23,João Resinente,Diego Amorim,Dúvidas/Outros,Cancelado,8,2,0
+2019-08-03,2019-08-06,00:04:07,Norman de Souza,Heitor Prado,Dúvidas/Outros,Cancelado,8,3,3
+2019-08-03,2019-08-03,00:06:41,Guilherme Lander Regasso,Alon Pinheiro,Problema com login,Encerrado,8,3,0
+2019-08-03,2019-08-05,00:08:06,Carolina Monteiro,Diego Amorim,Dúvidas/Outros,Encerrado,8,3,2
+2019-08-04,2019-08-07,00:04:28,Marcello Venturini de Freitas,João Paulo,Dúvidas/Outros,Encerrado,8,4,3
+2019-08-04,2019-08-05,00:03:46,Paulo Souza,João Paulo,Cancelar usuário,Encerrado,8,4,1
+2019-08-05,2019-08-11,00:10:37,Mariana Garcia Soares,João Paulo,Conexão lenta,Encerrado,8,5,6
+2019-08-05,2019-08-10,00:08:10,Eduardo Brum,Carol Espinosa,Conexão lenta,Cancelado,8,5,5
+2019-08-05,2019-08-12,00:02:29,José Guimarães,Carol Espinosa,Conexão lenta,Encerrado,8,5,7
+2019-08-06,2019-08-07,00:05:27,Paulo Rodrigues Pereira,Camila Pereira,Conexão lenta,Cancelado,8,6,1
+2019-08-06,2019-08-07,00:02:37,Maryanna Ferraz,João Paulo,Cancelar usuário,Cancelado,8,6,1
+2019-08-06,2019-08-06,00:04:38,Juliana Vieira Filho,Diego Amorim,Problema com login,Encerrado,8,6,0
+2019-08-07,2019-08-12,00:07:37,Marcello Jorge Montanholi,João Paulo,Pagamento,Encerrado,8,7,5
+2019-08-07,2019-08-07,00:03:42,Karine Cardoso das Chagas,João Paulo,Conexão lenta,Encerrado,8,7,0
+2019-08-07,2019-08-07,00:08:04,Anderson Dias Sampaio,Diego Amorim,Conexão lenta,Cancelado,8,7,0
+2019-08-07,2019-08-11,00:02:56,Nathalia Melo Eiras,Diego Amorim,Conexão lenta,Cancelado,8,7,4
+2019-08-07,2019-08-08,00:02:39,Carolina Venceslau Santos de Gusmão,Diego Amorim,Dúvidas/Outros,Sem resposta,8,7,1
+2019-08-08,2019-08-10,00:03:50,Guilherme Araujo Kelly,João Paulo,Reembolso,Encerrado,8,8,2
+2019-08-08,2019-08-09,00:08:08,Lucas Martins,Alon Pinheiro,Conexão lenta,Encerrado,8,8,1
+2019-08-08,2019-08-14,00:03:50,Amanda Ferreira,Diego Amorim,Conexão lenta,Cancelado,8,8,6
+2019-08-09,2019-08-12,00:05:27,Átila Aquino de Carvalho,Camila Pereira,Problema com login,Encerrado,8,9,3
+2019-08-09,2019-08-11,00:07:36,Andre Junior,João Paulo,Conexão lenta,Encerrado,8,9,2
+2019-08-09,2019-08-10,00:08:55,Nathalia Melo Eiras,Diego Amorim,Pagamento,Encerrado,8,9,1
+2019-08-10,2019-08-12,00:03:11,Livia Mello,Camila Pereira,Problema com login,Encerrado,8,10,2
+2019-08-10,2019-08-11,00:03:49,Elvis Macedo,Heitor Prado,Alterar senha,Cancelado,8,10,1
+2019-08-10,2019-08-14,00:03:28,Gabriel Pereira,Heitor Prado,Dúvidas/Outros,Encerrado,8,10,4
+2019-08-10,2019-08-10,00:02:15,Júlia de Oliveira,Carol Espinosa,Conexão lenta,Encerrado,8,10,0
+2019-08-11,2019-08-11,00:02:59,Nathália Augusto Oliveira,Heitor Prado,Conexão lenta,Encerrado,8,11,0
+2019-08-11,2019-08-13,00:01:20,Nathalia Melo Eiras,Alon Pinheiro,Conexão lenta,Cancelado,8,11,2
+2019-08-11,2019-08-18,00:03:08,Bruno Vargas,Diego Amorim,Problema com login,Encerrado,8,11,7
+2019-08-12,2019-08-16,00:04:46,Nicolas Conceição Leite,João Paulo,Dúvidas/Outros,Cancelado,8,12,4
+2019-08-12,2019-08-16,00:04:44,Marianna Pereira da Silva,João Paulo,Dúvidas/Outros,Sem resposta,8,12,4
+2019-08-12,2019-08-18,00:07:04,Aline Santos Silva,Diego Amorim,Conexão lenta,Encerrado,8,12,6
+2019-08-13,2019-08-14,00:03:29,Flávio Jacques Gamboa Fernandez de Oliveira Netto,Camila Pereira,Dúvidas/Outros,Encerrado,8,13,1
+2019-08-13,2019-08-14,00:07:06,Matheus de Souza Fróes,Heitor Prado,Problema com login,Cancelado,8,13,1
+2019-08-13,2019-08-13,00:04:10,Raíza Barcellos,Diego Amorim,Dúvidas/Outros,Sem resposta,8,13,0
+2019-08-13,2019-08-17,00:04:02,Ana de Sá Foly,Diego Amorim,Conexão lenta,Cancelado,8,13,4
+2019-08-13,2019-08-21,00:11:20,Caio Oliveira Meirelles,Carol Espinosa,Conexão lenta,Encerrado,8,13,8
+2019-08-14,2019-08-15,00:09:47,Camila Regis Ivo,Heitor Prado,Pagamento,Cancelado,8,14,1
+2019-08-14,2019-08-16,00:02:00,Luiz Gonçalves,Heitor Prado,Pagamento,Encerrado,8,14,2
+2019-08-14,2019-08-17,00:08:53,Paula Pessanha,Carol Espinosa,Dúvidas/Outros,Encerrado,8,14,3
+2019-08-15,2019-08-15,00:03:28,João Monteiro,Alon Pinheiro,Dúvidas/Outros,Encerrado,8,15,0
+2019-08-16,2019-08-17,00:06:15,Ana de Sá Foly,Heitor Prado,Dúvidas/Outros,Encerrado,8,16,1
+2019-08-16,2019-08-21,00:09:56,Marcus de Azevedo,João Paulo,Problema com login,Encerrado,8,16,5
+2019-08-16,2019-08-18,00:07:13,Leonardo Valença Castro,Alon Pinheiro,Dúvidas/Outros,Cancelado,8,16,2
+2019-08-16,2019-08-17,00:03:00,Mariana Garcia Soares,Alon Pinheiro,Conexão lenta,Encerrado,8,16,1
+2019-08-16,2019-08-16,00:07:11,Thaís Restum,Diego Amorim,Conexão lenta,Cancelado,8,16,0
+2019-08-17,2019-08-17,00:09:33,Beatriz Rodrigues,João Paulo,Problema com login,Encerrado,8,17,0
+2019-08-17,2019-08-17,00:01:36,Ana de Sá Foly,Diego Amorim,Dúvidas/Outros,Encerrado,8,17,0
+2019-08-17,2019-08-17,00:06:46,Camilla Ferraz,Carol Espinosa,Dúvidas/Outros,Encerrado,8,17,0
+2019-08-18,2019-08-18,00:04:27,Juliana Rodrigues,João Paulo,Problema com login,Cancelado,8,18,0
+2019-08-19,2019-08-22,00:14:05,Lais Cormack,João Paulo,Problema com login,Encerrado,8,19,3
+2019-08-19,2019-08-19,00:01:18,Raphael Rodrigues,João Paulo,Dúvidas/Outros,Encerrado,8,19,0
+2019-08-19,2019-08-24,00:05:58,Bruno de Souza,Diego Amorim,Conexão lenta,Encerrado,8,19,5
+2019-08-20,2019-08-20,00:04:59,Julia Andrade Gomes,Carol Espinosa,Conexão lenta,Cancelado,8,20,0
+2019-08-21,2019-08-29,00:03:51,Poline Limp,Alon Pinheiro,Conexão lenta,Encerrado,8,21,8
+2019-08-21,2019-08-27,00:03:50,Paula Gonçalves Gomes,Alon Pinheiro,Alterar senha,Encerrado,8,21,6
+2019-08-21,2019-08-24,00:09:08,Pedro Testahy Barros Afonso,Diego Amorim,Pagamento,Encerrado,8,21,3
+2019-08-22,2019-08-25,00:03:38,Patrick da Silva Farias ,Camila Pereira,Dúvidas/Outros,Encerrado,8,22,3
+2019-08-22,2019-08-28,00:08:29,Andre Junior,Alon Pinheiro,Dúvidas/Outros,Encerrado,8,22,6
+2019-08-22,2019-08-23,00:05:28,Ana de Sá Foly,Carol Espinosa,Dúvidas/Outros,Encerrado,8,22,1
+2019-08-23,2019-08-25,00:07:19,Luiza Sobrinho Pereira,João Paulo,Conexão lenta,Encerrado,8,23,2
+2019-08-23,2019-08-23,00:05:08,João Suzano,João Paulo,Conexão lenta,Cancelado,8,23,0
+2019-08-23,2019-08-23,00:03:45,Norman de Souza,João Paulo,Conexão lenta,Sem resposta,8,23,0
+2019-08-23,2019-08-23,00:01:21,Sarah de Carvalho Gomes,João Paulo,Dúvidas/Outros,Encerrado,8,23,0
+2019-08-23,2019-08-24,00:02:51,Lucas Bach,Alon Pinheiro,Problema com login,Cancelado,8,23,1
+2019-08-23,2019-08-29,00:03:38,Amanda de Lacerda,Diego Amorim,Conexão lenta,Cancelado,8,23,6
+2019-08-23,2019-08-25,00:03:19,Matheus Andrade Souza ,Diego Amorim,Conexão lenta,Encerrado,8,23,2
+2019-08-24,2019-08-27,00:07:01,Rômulo Pedrazza,João Paulo,Conexão lenta,Cancelado,8,24,3
+2019-08-24,2019-08-27,00:04:25,Bruno Vargas,Diego Amorim,Dúvidas/Outros,Encerrado,8,24,3
+2019-08-25,2019-08-25,00:01:18,João Lima,João Paulo,Alterar senha,Encerrado,8,25,0
+2019-08-25,2019-08-30,00:05:05,Geam Petraglia da Silva,Carol Espinosa,Problema com login,Encerrado,8,25,5
+2019-08-26,2019-08-31,00:06:24,Paula Gonçalves Gomes,João Paulo,Dúvidas/Outros,Encerrado,8,26,5
+2019-08-26,2019-08-27,00:07:51,Tomas Guadagnino,Alon Pinheiro,Dúvidas/Outros,Cancelado,8,26,1
+2019-08-27,2019-08-27,00:04:02,Frederico Vidal,Heitor Prado,Dúvidas/Outros,Sem resposta,8,27,0
+2019-08-27,2019-08-27,00:07:56,Pedro Helal,João Paulo,Pagamento,Encerrado,8,27,0
+2019-08-27,2019-08-27,00:01:23,Lucas Bach,João Paulo,Problema com login,Encerrado,8,27,0
+2019-08-27,2019-09-02,00:02:37,Guilherme Nunez,Alon Pinheiro,Conexão lenta,Encerrado,8,27,6
+2019-08-28,2019-09-02,00:06:49,Carolina Araujo Sagrillo,João Paulo,Conexão lenta,Encerrado,8,28,5
+2019-08-28,2019-08-29,00:05:59,Isabela Freitas,Alon Pinheiro,Pagamento,Encerrado,8,28,1
+2019-08-29,2019-08-29,00:10:18,Gil Bonder,João Paulo,Conexão lenta,Encerrado,8,29,0
+2019-08-29,2019-09-08,00:03:53,João Cavalcanti Alves,João Paulo,Dúvidas/Outros,Encerrado,8,29,10
+2019-08-29,2019-08-30,00:03:46,Arthur Gonçalo Cavalcanti,João Paulo,Conexão lenta,Encerrado,8,29,1
+2019-08-29,2019-08-30,00:01:09,Lígia Fernandes Filardi,João Paulo,Dúvidas/Outros,Encerrado,8,29,1
+2019-08-29,2019-09-04,00:07:18,André dos Santos Pereira Brito,Diego Amorim,Dúvidas/Outros,Cancelado,8,29,6
+2019-08-30,2019-09-01,00:02:39,Luiz Costa Vasconcellos,Camila Pereira,Pagamento,Sem resposta,8,30,2
+2019-08-30,2019-09-03,00:09:05,Daniel Lopes da Silveira ,João Paulo,Pagamento,Encerrado,8,30,4
+2019-08-30,2019-08-31,00:07:13,Mariana Bach,Alon Pinheiro,Dúvidas/Outros,Encerrado,8,30,1
+2019-08-30,2019-08-31,00:11:11,Manuela Abreu Braga Martins,Carol Espinosa,Conexão lenta,Cancelado,8,30,1
+2019-08-31,2019-09-02,00:02:10,Anderson Dias Sampaio,Camila Pereira,Conexão lenta,Encerrado,8,31,2
+2019-08-31,2019-08-31,00:05:14,Guilherme Lopes da Silveira ,Diego Amorim,Problema com login,Encerrado,8,31,0
+2019-08-31,2019-09-06,00:04:56,João de Araújo  ,Diego Amorim,Dúvidas/Outros,Encerrado,8,31,6
+2019-09-01,2019-09-01,00:08:45,Marcello Jorge Montanholi,Heitor Prado,Conexão lenta,Encerrado,9,1,0
+2019-09-01,2019-09-01,00:02:26,Átila Aquino de Carvalho,Heitor Prado,Conexão lenta,Encerrado,9,1,0
+2019-09-02,2019-09-05,00:03:04,Flávia Jordao,Camila Pereira,Dúvidas/Outros,Encerrado,9,2,3
+2019-09-02,2019-09-04,00:07:24,Matheus Pereira dos Santos,João Paulo,Pagamento,Encerrado,9,2,2
+2019-09-02,2019-09-07,00:02:50,Raquel Tavares,Diego Amorim,Conexão lenta,Encerrado,9,2,5
+2019-09-03,2019-09-09,00:02:54,Guilherme Lopes da Silveira ,Diego Amorim,Dúvidas/Outros,Encerrado,9,3,6
+2019-09-04,2019-09-09,00:01:44,Gabriel Pereira,João Paulo,Conexão lenta,Sem resposta,9,4,5
+2019-09-04,2019-09-04,00:07:55,Mariana Schwenck Gullo,Diego Amorim,Conexão lenta,Encerrado,9,4,0
+2019-09-05,2019-09-05,00:03:37,Julia Martins do Nascimento,Heitor Prado,Conexão lenta,Encerrado,9,5,0
+2019-09-05,2019-09-06,00:01:19,Paulo Rodrigues Pereira,João Paulo,Conexão lenta,Encerrado,9,5,1
+2019-09-05,2019-09-06,00:02:24,Ana de Almeida Fournier de Assis,Diego Amorim,Dúvidas/Outros,Encerrado,9,5,1
+2019-09-06,2019-09-07,00:03:04,Lucas Alvarenga dos Santos,Camila Pereira,Conexão lenta,Encerrado,9,6,1
+2019-09-06,2019-09-13,00:03:04,Luis Azevedo,Camila Pereira,Conexão lenta,Cancelado,9,6,7
+2019-09-06,2019-09-09,00:02:54,Carolina Venceslau Santos de Gusmão,Heitor Prado,Pagamento,Encerrado,9,6,3
+2019-09-06,2019-09-16,00:03:45,Rafaela de Godoy,João Paulo,Conexão lenta,Encerrado,9,6,10
+2019-09-06,2019-09-13,00:02:20,Milena Fernandes,João Paulo,Dúvidas/Outros,Encerrado,9,6,7
+2019-09-07,2019-09-07,00:04:40,Bruno Paes Leme,Heitor Prado,Conexão lenta,Encerrado,9,7,0
+2019-09-07,2019-09-17,00:13:49,Marcello Jorge Montanholi,João Paulo,Conexão lenta,Encerrado,9,7,10
+2019-09-07,2019-09-11,00:02:54,Andre Campos,Diego Amorim,Pagamento,Encerrado,9,7,4
+2019-09-08,2019-09-14,00:17:15,Daniel Lopes da Silveira ,Diego Amorim,Conexão lenta,Cancelado,9,8,6
+2019-09-08,2019-09-08,00:06:01,Eduardo Brum,Diego Amorim,Pagamento,Encerrado,9,8,0
+2019-09-09,2019-09-09,00:03:04,Giovanna Fahrnholz,Camila Pereira,Alterar senha,Encerrado,9,9,0
+2019-09-09,2019-09-11,00:09:27,Lucas Martins,João Paulo,Alterar senha,Sem resposta,9,9,2
+2019-09-09,2019-09-09,00:03:19,Ana Ladogano,João Paulo,Dúvidas/Outros,Encerrado,9,9,0
+2019-09-09,2019-09-10,00:07:59,Rômulo Pereira da Silva,Alon Pinheiro,Cancelar usuário,Encerrado,9,9,1
+2019-09-09,2019-09-09,00:05:19,Carolina Gaspar de Mattos      ,Carol Espinosa,Problema com login,Encerrado,9,9,0
+2019-09-10,2019-09-10,00:03:04,Larissa do Nascimento Lima,Camila Pereira,Pagamento,Encerrado,9,10,0
+2019-09-10,2019-09-11,00:07:05,Caio Stellet,João Paulo,Conexão lenta,Cancelado,9,10,1
+2019-09-10,2019-09-10,00:03:53,Lucas Bach,Diego Amorim,Conexão lenta,Cancelado,9,10,0
+2019-09-11,2019-09-11,00:08:59,Matheus Andrade Souza ,Diego Amorim,Dúvidas/Outros,Encerrado,9,11,0
+2019-09-11,2019-09-17,00:06:48,Lucas Pinheiro Oliveira,Diego Amorim,Conexão lenta,Encerrado,9,11,6
+2019-09-12,2019-09-13,00:06:06,Karine Cardoso das Chagas,Heitor Prado,Problema com login,Encerrado,9,12,1
+2019-09-12,2019-09-12,00:07:23,Joana Guimarães,Alon Pinheiro,Conexão lenta,Sem resposta,9,12,0
+2019-09-13,2019-09-14,00:01:43,Rafaela de Godoy,Heitor Prado,Problema com login,Sem resposta,9,13,1
+2019-09-13,2019-09-17,00:02:55,Gil Bonder,Alon Pinheiro,Dúvidas/Outros,Sem resposta,9,13,4
+2019-09-13,2019-09-18,00:09:32,Thalles Jordão Teixeira,Diego Amorim,Alterar senha,Encerrado,9,13,5
+2019-09-13,2019-09-13,00:07:43,Igor Feijo,Diego Amorim,Conexão lenta,Encerrado,9,13,0
+2019-09-13,2019-09-15,00:03:34,Caroline Gaspar de Mattos      ,Diego Amorim,Dúvidas/Outros,Encerrado,9,13,2
+2019-09-13,2019-09-13,00:08:22,Caroline Valente de Figueiredo,Carol Espinosa,Dúvidas/Outros,Encerrado,9,13,0
+2019-09-13,2019-09-14,00:06:16,Luis Morgado,Carol Espinosa,Reembolso,Encerrado,9,13,1
+2019-09-14,2019-09-15,00:13:35,Beatriz Machado Araujo,Heitor Prado,Problema com login,Encerrado,9,14,1
+2019-09-14,2019-09-14,00:02:12,Daniele Blumberg,João Paulo,Conexão lenta,Encerrado,9,14,0
+2019-09-14,2019-09-14,00:03:58,Felipe Sousa Melo,Diego Amorim,Pagamento,Encerrado,9,14,0
+2019-09-15,2019-09-16,00:03:04,José Guimarães,João Paulo,Problema com login,Encerrado,9,15,1
+2019-09-15,2019-09-15,00:01:02,João Ramos,Diego Amorim,Conexão lenta,Encerrado,9,15,0
+2019-09-16,2019-09-20,00:07:38,Gabriel Rozental,Diego Amorim,Problema com login,Encerrado,9,16,4
+2019-09-16,2019-09-16,00:04:10,Clarissa Ferreira,Carol Espinosa,Pagamento,Encerrado,9,16,0
+2019-09-16,2019-09-16,00:02:31,Breno Franklin da Silva,Carol Espinosa,Conexão lenta,Cancelado,9,16,0
+2019-09-17,2019-09-17,00:03:51,Giovanna Fahrnholz,João Paulo,Dúvidas/Outros,Encerrado,9,17,0
+2019-09-17,2019-09-19,00:07:57,Lorena Freire,Diego Amorim,Dúvidas/Outros,Cancelado,9,17,2
+2019-09-18,2019-09-23,00:08:43,Nathalia Bach,Diego Amorim,Dúvidas/Outros,Cancelado,9,18,5
+2019-09-18,2019-09-21,00:07:37,Carolina Calafate,Diego Amorim,Dúvidas/Outros,Encerrado,9,18,3
+2019-09-18,2019-09-26,00:03:56,Gabriel Rozental,Diego Amorim,Dúvidas/Outros,Encerrado,9,18,8
+2019-09-18,2019-09-18,00:07:24,Mariana Schwenck Gullo,Carol Espinosa,Pagamento,Encerrado,9,18,0
+2019-09-19,2019-09-20,00:08:18,Patrick da Silva Farias ,Heitor Prado,Dúvidas/Outros,Encerrado,9,19,1
+2019-09-19,2019-09-20,00:05:04,Camila Regis Ivo,João Paulo,Pagamento,Encerrado,9,19,1
+2019-09-19,2019-09-20,00:05:01,Elvis Macedo,João Paulo,Conexão lenta,Encerrado,9,19,1
+2019-09-19,2019-09-19,00:05:58,João Rodrigues,Diego Amorim,Conexão lenta,Encerrado,9,19,0
+2019-09-20,2019-09-20,00:03:04,Paloma Agostinho Marques dos Santos,Camila Pereira,Problema com login,Cancelado,9,20,0
+2019-09-20,2019-09-25,00:03:33,Vinícius Lencastre,João Paulo,Alterar senha,Cancelado,9,20,5
+2019-09-20,2019-09-20,00:03:42,Nathália Augusto Oliveira,Diego Amorim,Conexão lenta,Encerrado,9,20,0
+2019-09-21,2019-09-23,00:01:32,Debora Penedo,João Paulo,Pagamento,Encerrado,9,21,2
+2019-09-21,2019-09-28,00:08:55,Gil Bonder,Alon Pinheiro,Cancelar usuário,Encerrado,9,21,7
+2019-09-21,2019-09-21,00:04:21,João de Souza,Alon Pinheiro,Conexão lenta,Cancelado,9,21,0
+2019-09-22,2019-09-22,00:07:03,Isabelle de Sá Foly,João Paulo,Dúvidas/Outros,Cancelado,9,22,0
+2019-09-22,2019-09-24,00:02:11,Marcello Venturini de Freitas,João Paulo,Conexão lenta,Encerrado,9,22,2
+2019-09-22,2019-09-23,00:07:34,Rafaela de Godoy,Alon Pinheiro,Conexão lenta,Encerrado,9,22,1
+2019-09-22,2019-09-30,00:01:23,João Ramos,Diego Amorim,Conexão lenta,Sem resposta,9,22,8
+2019-09-23,2019-09-24,00:13:53,Rodrigo Funcke,João Paulo,Dúvidas/Outros,Encerrado,9,23,1
+2019-09-23,2019-09-24,00:09:52,Isabella Meirelles,João Paulo,Dúvidas/Outros,Encerrado,9,23,1
+2019-09-23,2019-09-23,00:05:33,Paula de Sousa Leite,Carol Espinosa,Pagamento,Encerrado,9,23,0
+2019-09-23,2019-09-24,00:03:27,Jayme Carvalho,Carol Espinosa,Dúvidas/Outros,Sem resposta,9,23,1
+2019-09-24,2019-09-25,00:07:05,Gabriela e Alves,Heitor Prado,Cancelar usuário,Encerrado,9,24,1
+2019-09-24,2019-09-25,00:05:57,Gabriela Romeu,Carol Espinosa,Conexão lenta,Encerrado,9,24,1
+2019-09-25,2019-09-25,00:04:56,Fernanda Rocha,João Paulo,Conexão lenta,Encerrado,9,25,0
+2019-09-25,2019-09-25,00:05:53,Gabriela de Souza Campos,Diego Amorim,Conexão lenta,Encerrado,9,25,0
+2019-09-25,2019-10-01,00:02:29,Jayme Carvalho,Diego Amorim,Dúvidas/Outros,Cancelado,9,25,6
+2019-09-25,2019-09-25,00:01:54,Lorena Marinho,Diego Amorim,Problema com login,Encerrado,9,25,0
+2019-09-26,2019-09-28,00:06:05,Flávia Jordao,Heitor Prado,Conexão lenta,Encerrado,9,26,2
+2019-09-26,2019-09-26,00:06:14,Ana de Almeida Fournier de Assis,João Paulo,Conexão lenta,Encerrado,9,26,0
+2019-09-26,2019-09-30,00:07:19,Ana Alvarenga dos Santos,Diego Amorim,Pagamento,Encerrado,9,26,4
+2019-09-26,2019-09-26,00:07:01,Renan Assis da Silva,Diego Amorim,Cancelar usuário,Encerrado,9,26,0
+2019-09-26,2019-09-26,00:05:28,Daniel Thuler,Diego Amorim,Problema com login,Encerrado,9,26,0
+2019-09-27,2019-09-27,00:08:49,Eduarda Chagas,João Paulo,Conexão lenta,Encerrado,9,27,0
+2019-09-28,2019-09-29,00:05:05,Guilherme Nunez,João Paulo,Dúvidas/Outros,Encerrado,9,28,1
+2019-09-28,2019-09-29,00:03:07,Marta de Oliveira,Alon Pinheiro,Conexão lenta,Encerrado,9,28,1
+2019-09-28,2019-09-29,00:06:28,Thiago Saraiva Araujo,Diego Amorim,Dúvidas/Outros,Encerrado,9,28,1
+2019-09-28,2019-09-28,00:01:58,Lucas Racy,Diego Amorim,Alterar senha,Encerrado,9,28,0
+2019-09-29,2019-10-01,00:03:03,Matheus Andrade Machado ,Camila Pereira,Conexão lenta,Encerrado,9,29,2
+2019-09-29,2019-09-30,00:06:45,Caroline Valente de Figueiredo,João Paulo,Problema com login,Sem resposta,9,29,1
+2019-09-29,2019-09-29,00:09:02,Thiago Saraiva Araujo,Diego Amorim,Conexão lenta,Encerrado,9,29,0
+2019-09-29,2019-10-04,00:06:46,Tiago Leal Pedrosa,Diego Amorim,Dúvidas/Outros,Cancelado,9,29,5
+2019-09-29,2019-10-06,00:01:51,Bárbara Gonçalves ,Diego Amorim,Dúvidas/Outros,Encerrado,9,29,7
+2019-09-30,2019-10-01,00:04:19,Ana de Almeida Fournier de Assis,Camila Pereira,Alterar senha,Cancelado,9,30,1
+2019-09-30,2019-09-30,00:03:15,Andre Campos,Heitor Prado,Problema com login,Encerrado,9,30,0
+2019-09-30,2019-10-01,00:06:19,Ana de Almeida Fournier de Assis,Alon Pinheiro,Cancelar usuário,Encerrado,9,30,1
+2019-09-30,2019-10-01,00:12:28,Bernardo de Lima Oliveira,Carol Espinosa,Dúvidas/Outros,Encerrado,9,30,1
+2019-10-02,2019-10-10,00:02:39,Luiz Gonçalves,Heitor Prado,Dúvidas/Outros,Cancelado,10,2,8
+2019-10-02,2019-10-06,00:05:50,Marianna Pereira da Silva,Diego Amorim,Conexão lenta,Encerrado,10,2,4
+2019-10-04,2019-10-07,00:02:59,José Guimarães,Heitor Prado,Dúvidas/Outros,Encerrado,10,4,3
+2019-10-04,2019-10-04,00:07:23,Desirée Castro Guimarães,Alon Pinheiro,Pagamento,Encerrado,10,4,0
+2019-10-05,2019-10-05,00:07:03,Amanda Ferreira,Heitor Prado,Conexão lenta,Encerrado,10,5,0
+2019-10-05,2019-10-09,00:05:15,Julia Andrade Gomes,Diego Amorim,Pagamento,Encerrado,10,5,4
+2019-10-06,2019-10-07,00:06:02,Marcelo Monnerat,Heitor Prado,Conexão lenta,Encerrado,10,6,1
+2019-10-06,2019-10-07,00:17:51,Eduarda Mello,Carol Espinosa,Problema com login,Cancelado,10,6,1
+2019-10-07,2019-10-10,00:02:50,Matheus Sepúlveda,Heitor Prado,Conexão lenta,Cancelado,10,7,3
+2019-10-07,2019-10-08,00:06:11,Carolina Monteiro,Alon Pinheiro,Conexão lenta,Encerrado,10,7,1
+2019-10-07,2019-10-08,00:07:18,Lucas Bach,Carol Espinosa,Pagamento,Encerrado,10,7,1
+2019-10-08,2019-10-14,00:02:40,Marcos Almeida Albuquerque Faria,João Paulo,Dúvidas/Outros,Encerrado,10,8,6
+2019-10-08,2019-10-11,00:05:27,Ana Bernardo,Diego Amorim,Pagamento,Encerrado,10,8,3
+2019-10-09,2019-10-10,00:05:48,Jaqueline Rimolo de Menezes,Heitor Prado,Problema com login,Cancelado,10,9,1
+2019-10-10,2019-10-20,00:05:46,Bruno Vargas,João Paulo,Dúvidas/Outros,Cancelado,10,10,10
+2019-10-10,2019-10-17,00:04:48,João Suzano,Carol Espinosa,Conexão lenta,Encerrado,10,10,7
+2019-10-11,2019-10-12,00:05:30,Daniel Benevides Xavier,Heitor Prado,Cancelar usuário,Encerrado,10,11,1
+2019-10-11,2019-10-12,00:08:45,João Barbosa,João Paulo,Conexão lenta,Sem resposta,10,11,1
+2019-10-11,2019-10-11,00:01:42,Bruno Paes Leme,João Paulo,Conexão lenta,Encerrado,10,11,0
+2019-10-11,2019-10-12,00:02:34,Julia Freitas,Diego Amorim,Dúvidas/Outros,Sem resposta,10,11,1
+2019-10-12,2019-10-18,00:06:28,Fernanda Rossini,Diego Amorim,Conexão lenta,Cancelado,10,12,6
+2019-10-12,2019-10-15,00:03:13,Fernanda Rocha,Diego Amorim,Conexão lenta,Cancelado,10,12,3
+2019-10-13,2019-10-14,00:08:17,Raíza Barcellos,João Paulo,Dúvidas/Outros,Encerrado,10,13,1
+2019-10-13,2019-10-15,00:01:35,Lucas Martins,Diego Amorim,Problema com login,Encerrado,10,13,2
+2019-10-14,2019-10-17,00:03:46,Daniele Blumberg,Alon Pinheiro,Conexão lenta,Encerrado,10,14,3
+2019-10-15,2019-10-16,00:05:27,Bruno Jorge Montanholi,Heitor Prado,Dúvidas/Outros,Encerrado,10,15,1
+2019-10-15,2019-10-15,00:05:25,João Resinente,Diego Amorim,Problema com login,Cancelado,10,15,0
+2019-10-15,2019-10-20,00:03:32,Maria Leite Ursulino,Diego Amorim,Conexão lenta,Encerrado,10,15,5
+2019-10-15,2019-10-15,00:03:31,Marcello Jorge Montanholi,Diego Amorim,Problema com login,Encerrado,10,15,0
+2019-10-15,2019-10-16,00:08:23,Marta Fahrnholz,Carol Espinosa,Conexão lenta,Encerrado,10,15,1
+2019-10-16,2019-10-18,00:04:25,Adelino Werneck,Camila Pereira,Dúvidas/Outros,Encerrado,10,16,2
+2019-10-16,2019-10-23,00:05:05,Guilherme Delgado,Heitor Prado,Reembolso,Encerrado,10,16,7
+2019-10-16,2019-10-21,00:02:20,Fernanda Santo,Alon Pinheiro,Problema com login,Encerrado,10,16,5
+2019-10-16,2019-10-17,00:01:13,João Resinente,Alon Pinheiro,Dúvidas/Outros,Cancelado,10,16,1
+2019-10-16,2019-10-26,00:08:48,Luís Werneck,Diego Amorim,Dúvidas/Outros,Encerrado,10,16,10
+2019-10-16,2019-10-18,00:05:14,Rômulo Pedrazza,Diego Amorim,Pagamento,Encerrado,10,16,2
+2019-10-17,2019-10-18,00:02:37,Aline de Souza,João Paulo,Dúvidas/Outros,Encerrado,10,17,1
+2019-10-17,2019-10-21,00:07:09,Caroline Gaspar de Mattos      ,Alon Pinheiro,Dúvidas/Outros,Cancelado,10,17,4
+2019-10-18,2019-10-20,00:06:20,Daniel Thuler,João Paulo,Problema com login,Cancelado,10,18,2
+2019-10-20,2019-10-24,00:01:23,Rafael Oliveira Leite Silva,João Paulo,Pagamento,Encerrado,10,20,4
+2019-10-20,2019-10-21,00:07:18,Fernanda Santo,Diego Amorim,Reembolso,Encerrado,10,20,1
+2019-10-20,2019-10-20,00:07:00,André dos Santos Pereira Brito,Carol Espinosa,Pagamento,Encerrado,10,20,0
+2019-10-21,2019-10-26,00:05:34,Nathália Fernandes de Araújo,Camila Pereira,Conexão lenta,Encerrado,10,21,5
+2019-10-21,2019-10-22,00:01:27,Raíza Barcellos,Camila Pereira,Conexão lenta,Encerrado,10,21,1
+2019-10-21,2019-10-23,00:05:57,André Melo Soledade,Heitor Prado,Dúvidas/Outros,Cancelado,10,21,2
+2019-10-21,2019-10-24,00:05:37,Fernanda Rocha,João Paulo,Dúvidas/Outros,Encerrado,10,21,3
+2019-10-21,2019-10-22,00:05:00,Diego de Melo Teixeira,Diego Amorim,Conexão lenta,Encerrado,10,21,1
+2019-10-22,2019-10-27,00:04:55,Raíza Barcellos,João Paulo,Problema com login,Cancelado,10,22,5
+2019-10-22,2019-10-22,00:03:30,André dos Santos Pereira Brito,João Paulo,Problema com login,Encerrado,10,22,0
+2019-10-22,2019-10-31,00:02:50,Patrick da Silva Farias ,Diego Amorim,Conexão lenta,Encerrado,10,22,9
+2019-10-22,2019-10-23,00:03:36,Camilla Ferraz,Carol Espinosa,Dúvidas/Outros,Encerrado,10,22,1
+2019-10-23,2019-10-24,00:03:04,Pedro Bernhardt,Camila Pereira,Problema com login,Cancelado,10,23,1
+2019-10-23,2019-10-23,00:06:16,Camilla Ferraz,Heitor Prado,Conexão lenta,Encerrado,10,23,0
+2019-10-23,2019-10-23,00:11:59,Raphael Rodrigues,João Paulo,Conexão lenta,Sem resposta,10,23,0
+2019-10-23,2019-10-27,00:04:39,Desirée Castro Guimarães,João Paulo,Problema com login,Encerrado,10,23,4
+2019-10-23,2019-10-23,00:02:38,Lucas Brum Pereira,João Paulo,Pagamento,Cancelado,10,23,0
+2019-10-23,2019-10-27,00:02:24,Gil Bonder,João Paulo,Dúvidas/Outros,Encerrado,10,23,4
+2019-10-23,2019-10-23,00:08:50,Bernardo de Lima Oliveira,Diego Amorim,Dúvidas/Outros,Encerrado,10,23,0
+2019-10-24,2019-10-24,00:03:04,Matheus Sone,Camila Pereira,Dúvidas/Outros,Encerrado,10,24,0
+2019-10-24,2019-10-25,00:07:06,Eduardo Paes Leme,Heitor Prado,Conexão lenta,Encerrado,10,24,1
+2019-10-24,2019-11-01,00:04:14,Arthur Vaz,Heitor Prado,Dúvidas/Outros,Encerrado,10,24,8
+2019-10-24,2019-10-24,00:02:47,Daniel Benevides Xavier,João Paulo,Conexão lenta,Cancelado,10,24,0
+2019-10-24,2019-10-24,00:01:43,Bernardo Silva,João Paulo,Reembolso,Encerrado,10,24,0
+2019-10-24,2019-10-25,00:07:33,Juliana Vieira Filho,Diego Amorim,Dúvidas/Outros,Encerrado,10,24,1
+2019-10-25,2019-10-25,00:06:16,Vinicius Freitas,João Paulo,Dúvidas/Outros,Encerrado,10,25,0
+2019-10-25,2019-10-27,00:04:11,Gil Bonder,João Paulo,Dúvidas/Outros,Encerrado,10,25,2
+2019-10-25,2019-10-26,00:09:12,Victor Fonseca,Alon Pinheiro,Dúvidas/Outros,Encerrado,10,25,1
+2019-10-25,2019-10-26,00:05:05,Igor Jimenez Jimbo,Diego Amorim,Dúvidas/Outros,Encerrado,10,25,1
+2019-10-25,2019-11-01,00:01:31,Fernanda Gonçalves,Diego Amorim,Conexão lenta,Cancelado,10,25,7
+2019-10-26,2019-10-27,00:07:02,Juliana Vieira Filho,Heitor Prado,Dúvidas/Outros,Encerrado,10,26,1
+2019-10-26,2019-11-03,00:03:22,José do Vale Lisboa,Alon Pinheiro,Problema com login,Sem resposta,10,26,8
+2019-10-26,2019-10-29,00:05:15,Bernard Mello,Diego Amorim,Dúvidas/Outros,Encerrado,10,26,3
+2019-10-26,2019-10-26,00:02:10,Paloma Albano,Diego Amorim,Problema com login,Encerrado,10,26,0
+2019-10-27,2019-10-30,00:07:39,Joana Guimarães,João Paulo,Problema com login,Encerrado,10,27,3
+2019-10-27,2019-10-30,00:11:38,Desirée Castro Guimarães,Alon Pinheiro,Problema com login,Encerrado,10,27,3
+2019-10-27,2019-11-01,00:09:58,Lucas Guadagnino,Alon Pinheiro,Pagamento,Encerrado,10,27,5
+2019-10-27,2019-10-30,00:01:55,Felipe Sousa Melo,Diego Amorim,Problema com login,Encerrado,10,27,3
+2019-10-28,2019-10-28,00:03:04,Pedro Vilas Bôas,Camila Pereira,Conexão lenta,Encerrado,10,28,0
+2019-10-28,2019-11-05,00:03:08,Lucas Bach,Heitor Prado,Dúvidas/Outros,Encerrado,10,28,8
+2019-10-28,2019-10-29,00:02:30,Fernanda do Nascimento Rocha,Heitor Prado,Conexão lenta,Encerrado,10,28,1
+2019-10-28,2019-10-29,00:09:54,Wesley de Melo Teixeira,João Paulo,Problema com login,Cancelado,10,28,1
+2019-10-28,2019-10-31,00:03:07,Daniel Thuler,Diego Amorim,Conexão lenta,Encerrado,10,28,3
+2019-10-29,2019-11-02,00:01:11,Lorena Fernandes,Heitor Prado,Conexão lenta,Cancelado,10,29,4
+2019-10-29,2019-11-04,00:04:40,Joāo Leite Ursulino,Diego Amorim,Conexão lenta,Encerrado,10,29,6
+2019-10-30,2019-11-02,00:05:34,Lorena Freire,João Paulo,Conexão lenta,Cancelado,10,30,3
+2019-10-30,2019-11-02,00:09:01,Leticia Mota,Diego Amorim,Pagamento,Encerrado,10,30,3
+2019-10-31,2019-11-01,00:03:04,Vitor de Carvalho,Camila Pereira,Dúvidas/Outros,Encerrado,10,31,1
+2019-10-31,2019-11-08,00:07:23,Marta de Oliveira,Heitor Prado,Problema com login,Sem resposta,10,31,8
+2019-10-31,2019-11-09,00:03:53,Bernardo da cunha ,João Paulo,Pagamento,Encerrado,10,31,9
+2019-11-01,2019-11-09,00:03:09,Lígia Fernandes Filardi,João Paulo,Problema com login,Encerrado,11,1,8
+2019-11-01,2019-11-01,00:02:24,Ramon Vaz,Alon Pinheiro,Conexão lenta,Encerrado,11,1,0
+2019-11-01,2019-11-01,00:04:13,Maria Leite Ursulino,Diego Amorim,Alterar senha,Encerrado,11,1,0
+2019-11-01,2019-11-01,00:02:58,Raíza Barbosa,Diego Amorim,Dúvidas/Outros,Cancelado,11,1,0
+2019-11-01,2019-11-01,00:01:09,Ramon Vaz,Diego Amorim,Dúvidas/Outros,Encerrado,11,1,0
+2019-11-01,2019-11-02,00:03:07,Eduardo Luz,Carol Espinosa,Dúvidas/Outros,Encerrado,11,1,1
+2019-11-02,2019-11-07,00:06:27,Gabriel Mesquita,Alon Pinheiro,Conexão lenta,Encerrado,11,2,5
+2019-11-03,2019-11-06,00:03:04,Luis Morgado,Camila Pereira,Dúvidas/Outros,Cancelado,11,3,3
+2019-11-03,2019-11-04,00:03:04,Guilherme Delgado,Camila Pereira,Dúvidas/Outros,Encerrado,11,3,1
+2019-11-03,2019-11-04,00:07:33,Milena Fernandes,Heitor Prado,Dúvidas/Outros,Encerrado,11,3,1
+2019-11-03,2019-11-06,00:06:34,Guilherme Lander Regasso,Heitor Prado,Dúvidas/Outros,Cancelado,11,3,3
+2019-11-03,2019-11-05,00:01:41,Bruno Sobrinho Pereira,Alon Pinheiro,Pagamento,Encerrado,11,3,2
+2019-11-03,2019-11-04,00:04:06,Leticia Mota,Diego Amorim,Problema com login,Encerrado,11,3,1
+2019-11-04,2019-11-04,00:03:04,Andre Campos,Camila Pereira,Dúvidas/Outros,Sem resposta,11,4,0
+2019-11-04,2019-11-07,00:03:08,Gabriela de Souza Campos,João Paulo,Conexão lenta,Encerrado,11,4,3
+2019-11-04,2019-11-04,00:09:09,Beatriz Rodrigues,Diego Amorim,Cancelar usuário,Encerrado,11,4,0
+2019-11-04,2019-11-06,00:08:50,Bruno Jorge Montanholi,Diego Amorim,Conexão lenta,Sem resposta,11,4,2
+2019-11-05,2019-11-06,00:03:04,Juan Santos Rosa,Camila Pereira,Problema com login,Encerrado,11,5,1
+2019-11-05,2019-11-05,00:09:04,Beatriz Barrozo,Alon Pinheiro,Problema com login,Encerrado,11,5,0
+2019-11-05,2019-11-05,00:03:19,Matheus Matta Marques,Diego Amorim,Problema com login,Encerrado,11,5,0
+2019-11-05,2019-11-08,00:01:01,Matheus Andrade Machado ,Diego Amorim,Conexão lenta,Encerrado,11,5,3
+2019-11-05,2019-11-06,00:06:49,José Rodrigues Pereira,Carol Espinosa,Alterar senha,Encerrado,11,5,1
+2019-11-06,2019-11-12,00:02:32,Thalles Jordão Teixeira,João Paulo,Problema com login,Encerrado,11,6,6
+2019-11-07,2019-11-07,00:10:30,Guilherme Nunez,João Paulo,Conexão lenta,Encerrado,11,7,0
+2019-11-07,2019-11-07,00:07:26,Caio Stellet,João Paulo,Conexão lenta,Encerrado,11,7,0
+2019-11-07,2019-11-17,00:03:24,Paloma Albano,Diego Amorim,Pagamento,Sem resposta,11,7,10
+2019-11-08,2019-11-08,00:03:07,Daniela Santos Silva,Heitor Prado,Conexão lenta,Cancelado,11,8,0
+2019-11-08,2019-11-08,00:02:51,Matheus de Souza Fróes,Heitor Prado,Conexão lenta,Encerrado,11,8,0
+2019-11-08,2019-11-08,00:03:07,Marina Silva Pacheco,Diego Amorim,Conexão lenta,Encerrado,11,8,0
+2019-11-09,2019-11-13,00:04:54,Guilherme Araujo Kelly,Camila Pereira,Dúvidas/Outros,Encerrado,11,9,4
+2019-11-09,2019-11-13,00:02:37,Nathalia de Sousa Vaz Rangel,Camila Pereira,Dúvidas/Outros,Cancelado,11,9,4
+2019-11-09,2019-11-12,00:07:59,Luíza Roussef,João Paulo,Dúvidas/Outros,Encerrado,11,9,3
+2019-11-09,2019-11-12,00:06:07,Amanda Ferreira,João Paulo,Dúvidas/Outros,Encerrado,11,9,3
+2019-11-09,2019-11-12,00:11:21,Brenno Silva,Diego Amorim,Conexão lenta,Encerrado,11,9,3
+2019-11-10,2019-11-13,00:15:00,Leonardo de Paula,Heitor Prado,Conexão lenta,Encerrado,11,10,3
+2019-11-10,2019-11-15,00:01:43,João Lima,Heitor Prado,Pagamento,Encerrado,11,10,5
+2019-11-10,2019-11-11,00:01:10,Carlos Mota,João Paulo,Problema com login,Encerrado,11,10,1
+2019-11-11,2019-11-12,00:13:25,Raquel Tavares,Heitor Prado,Dúvidas/Outros,Encerrado,11,11,1
+2019-11-11,2019-11-18,00:03:28,Luana Lopes,Diego Amorim,Dúvidas/Outros,Encerrado,11,11,7
+2019-11-12,2019-11-17,00:02:39,Camilla Ferraz,Heitor Prado,Conexão lenta,Encerrado,11,12,5
+2019-11-12,2019-11-16,00:01:09,Matheus Matta Marques,Heitor Prado,Problema com login,Cancelado,11,12,4
+2019-11-12,2019-11-13,00:08:07,Debora Penedo,Alon Pinheiro,Conexão lenta,Encerrado,11,12,1
+2019-11-12,2019-11-18,00:07:13,Beatriz de Lima Oliveira,Alon Pinheiro,Pagamento,Cancelado,11,12,6
+2019-11-12,2019-11-15,00:01:27,Anderson Dias Sampaio,Alon Pinheiro,Conexão lenta,Encerrado,11,12,3
+2019-11-13,2019-11-14,00:04:33,Carolina Araujo Sagrillo,Diego Amorim,Dúvidas/Outros,Encerrado,11,13,1
+2019-11-14,2019-11-17,00:01:02,Daniela Santos Silva,Heitor Prado,Conexão lenta,Cancelado,11,14,3
+2019-11-14,2019-11-15,00:07:18,Lucas Alvim,Diego Amorim,Problema com login,Encerrado,11,14,1
+2019-11-14,2019-11-14,00:06:09,Norman de Souza,Diego Amorim,Dúvidas/Outros,Encerrado,11,14,0
+2019-11-15,2019-11-22,00:07:24,Matheus Andrade Machado ,João Paulo,Problema com login,Cancelado,11,15,7
+2019-11-15,2019-11-20,00:06:20,Paula Marques Ribeiro,Alon Pinheiro,Conexão lenta,Encerrado,11,15,5
+2019-11-15,2019-11-16,00:02:26,Pedro Lopes de Oliveira,Diego Amorim,Dúvidas/Outros,Encerrado,11,15,1
+2019-11-16,2019-11-16,00:02:42,André dos Santos Pereira Brito,Camila Pereira,Reembolso,Encerrado,11,16,0
+2019-11-16,2019-11-22,00:06:37,Marina de Godoy,Alon Pinheiro,Conexão lenta,Encerrado,11,16,6
+2019-11-17,2019-11-17,00:02:16,Renata Lopes de Oliveira,Heitor Prado,Conexão lenta,Encerrado,11,17,0
+2019-11-17,2019-11-17,00:08:35,Carolina Venceslau Santos de Gusmão,João Paulo,Dúvidas/Outros,Encerrado,11,17,0
+2019-11-17,2019-11-17,00:06:42,David de Paula,Alon Pinheiro,Conexão lenta,Encerrado,11,17,0
+2019-11-17,2019-11-17,00:06:33,João de Souza,Carol Espinosa,Dúvidas/Outros,Encerrado,11,17,0
+2019-11-18,2019-11-18,00:06:37,Nathalia Melo Eiras,Heitor Prado,Conexão lenta,Encerrado,11,18,0
+2019-11-18,2019-11-19,00:10:15,João Rodrigues,João Paulo,Conexão lenta,Sem resposta,11,18,1
+2019-11-18,2019-11-18,00:02:02,Luiz Gonçalves,João Paulo,Alterar senha,Encerrado,11,18,0
+2019-11-19,2019-11-26,00:04:13,Bernard Mello,Camila Pereira,Dúvidas/Outros,Sem resposta,11,19,7
+2019-11-19,2019-11-20,00:02:57,Diego de Melo Teixeira,Carol Espinosa,Conexão lenta,Cancelado,11,19,1
+2019-11-20,2019-11-28,00:02:55,Nathalia Bach,Camila Pereira,Problema com login,Encerrado,11,20,8
+2019-11-20,2019-11-20,00:05:34,Camilla Ferraz,Alon Pinheiro,Dúvidas/Outros,Encerrado,11,20,0
+2019-11-20,2019-11-22,00:03:33,Pedro Fontes,Diego Amorim,Pagamento,Encerrado,11,20,2
+2019-11-20,2019-11-25,00:01:47,Vinicius Freitas,Diego Amorim,Dúvidas/Outros,Encerrado,11,20,5
+2019-11-21,2019-11-22,00:08:56,José Guimarães,Heitor Prado,Problema com login,Cancelado,11,21,1
+2019-11-21,2019-11-25,00:03:00,Priscila Orçai Granado,João Paulo,Dúvidas/Outros,Encerrado,11,21,4
+2019-11-21,2019-11-21,00:02:14,Bruna Calmon,João Paulo,Pagamento,Encerrado,11,21,0
+2019-11-21,2019-11-22,00:05:28,Amanda Rodrigues,Alon Pinheiro,Dúvidas/Outros,Encerrado,11,21,1
+2019-11-21,2019-11-22,00:08:27,Marcello Venturini de Freitas,Carol Espinosa,Conexão lenta,Cancelado,11,21,1
+2019-11-21,2019-11-21,00:04:29,Camilla Ferraz,Carol Espinosa,Pagamento,Encerrado,11,21,0
+2019-11-22,2019-11-22,00:07:25,Lucas Alvim,Heitor Prado,Conexão lenta,Encerrado,11,22,0
+2019-11-22,2019-11-30,00:07:05,Bruna Jimenez Jimbo,João Paulo,Pagamento,Encerrado,11,22,8
+2019-11-22,2019-11-23,00:03:14,Marcello Jorge Montanholi,João Paulo,Reembolso,Cancelado,11,22,1
+2019-11-22,2019-11-22,00:01:24,Carolina Racy,João Paulo,Reembolso,Encerrado,11,22,0
+2019-11-22,2019-11-28,00:03:51,Pedro Testahy Barros Afonso,Diego Amorim,Conexão lenta,Encerrado,11,22,6
+2019-11-22,2019-11-23,00:16:32,Thayná Freitas Medronho,Carol Espinosa,Problema com login,Cancelado,11,22,1
+2019-11-23,2019-11-26,00:14:22,Guilherme Nunez,João Paulo,Dúvidas/Outros,Encerrado,11,23,3
+2019-11-23,2019-11-23,00:03:31,Carolina Marques,Alon Pinheiro,Dúvidas/Outros,Encerrado,11,23,0
+2019-11-24,2019-11-27,00:03:47,Lucas Racy,Diego Amorim,Dúvidas/Outros,Cancelado,11,24,3
+2019-11-25,2019-11-28,00:04:17,Carolina Gaspar de Mattos      ,Carol Espinosa,Pagamento,Encerrado,11,25,3
+2019-11-26,2019-12-06,00:01:55,Luis Morgado,Alon Pinheiro,Conexão lenta,Cancelado,11,26,10
+2019-11-27,2019-11-27,00:02:08,José Cardeman,Camila Pereira,Conexão lenta,Encerrado,11,27,0
+2019-11-28,2019-12-01,00:07:56,Flávio Jacques Gamboa Fernandez de Oliveira Netto,João Paulo,Dúvidas/Outros,Encerrado,11,28,3
+2019-11-28,2019-11-30,00:05:44,Isabella de Azevedo Alves,Carol Espinosa,Conexão lenta,Encerrado,11,28,2
+2019-11-29,2019-12-08,00:08:36,Carolina Calafate,Heitor Prado,Pagamento,Encerrado,11,29,9
+2019-11-29,2019-11-29,00:03:03,Andre Junior,João Paulo,Conexão lenta,Sem resposta,11,29,0
+2019-11-29,2019-12-07,00:07:27,João de Souza,Diego Amorim,Conexão lenta,Encerrado,11,29,8
+2019-11-30,2019-12-01,00:02:29,Maria Leite Ursulino,João Paulo,Dúvidas/Outros,Cancelado,11,30,1
+2019-11-30,2019-11-30,00:12:50,Ana de Almeida Fournier de Assis,Alon Pinheiro,Pagamento,Encerrado,11,30,0
+2019-11-30,2019-12-03,00:02:57,Marcelo Monnerat,Alon Pinheiro,Dúvidas/Outros,Encerrado,11,30,3
+2019-11-30,2019-12-02,00:02:12,João Suzano,Diego Amorim,Conexão lenta,Cancelado,11,30,2
+2019-12-01,2019-12-06,00:07:15,Matheus Andrade Machado ,Diego Amorim,Dúvidas/Outros,Encerrado,12,1,5
+2019-12-02,2019-12-06,00:07:47,Paula Marques Ribeiro,Heitor Prado,Conexão lenta,Cancelado,12,2,4
+2019-12-02,2019-12-03,00:04:47,José Guimarães,Alon Pinheiro,Dúvidas/Outros,Encerrado,12,2,1
+2019-12-02,2019-12-12,00:02:10,Luiza Monnerat,Diego Amorim,Reembolso,Encerrado,12,2,10
+2019-12-03,2019-12-05,00:08:16,Adelino Werneck,Heitor Prado,Conexão lenta,Encerrado,12,3,2
+2019-12-04,2019-12-10,00:02:59,Lucas Alvim,Camila Pereira,Conexão lenta,Encerrado,12,4,6
+2019-12-04,2019-12-12,00:06:14,Clarissa Ferreira,João Paulo,Conexão lenta,Encerrado,12,4,8
+2019-12-04,2019-12-04,00:01:44,Maria Freire de Souza,Diego Amorim,Alterar senha,Encerrado,12,4,0
+2019-12-04,2019-12-04,00:06:08,Amanda Ferreira,Carol Espinosa,Pagamento,Encerrado,12,4,0
+2019-12-05,2019-12-05,00:02:52,João de Araújo  ,João Paulo,Conexão lenta,Encerrado,12,5,0
+2019-12-05,2019-12-09,00:02:23,Ana de Sá Foly,Diego Amorim,Problema com login,Encerrado,12,5,4
+2019-12-06,2019-12-06,00:02:34,Juan Santos Rosa,Camila Pereira,Conexão lenta,Encerrado,12,6,0
+2019-12-06,2019-12-06,00:02:34,Luiza Sobrinho Pereira,Diego Amorim,Conexão lenta,Encerrado,12,6,0
+2019-12-07,2019-12-09,00:05:38,Adriano de Souza,Heitor Prado,Cancelar usuário,Encerrado,12,7,2
+2019-12-07,2019-12-07,00:07:32,Luiz Costa Vasconcellos,João Paulo,Dúvidas/Outros,Encerrado,12,7,0
+2019-12-07,2019-12-13,00:08:37,Julia Freitas,Diego Amorim,Pagamento,Encerrado,12,7,6
+2019-12-08,2019-12-12,00:01:41,Bianca Lemos,Heitor Prado,Pagamento,Encerrado,12,8,4
+2019-12-08,2019-12-10,00:02:25,Bruno Cunha Felippe,João Paulo,Dúvidas/Outros,Encerrado,12,8,2
+2019-12-08,2019-12-09,00:02:08,Nicole Marquito de Paiva Torres,João Paulo,Conexão lenta,Encerrado,12,8,1
+2019-12-08,2019-12-09,00:06:29,Bruna Jimenez Jimbo,Diego Amorim,Pagamento,Cancelado,12,8,1
+2019-12-08,2019-12-08,00:05:55,Nathalia Melo Eiras,Diego Amorim,Problema com login,Encerrado,12,8,0
+2019-12-10,2019-12-11,00:06:10,Giovanna Fahrnholz,João Paulo,Conexão lenta,Encerrado,12,10,1
+2019-12-10,2019-12-13,00:07:24,Juan Fernandes de Araújo,Diego Amorim,Pagamento,Encerrado,12,10,3
+2019-12-11,2019-12-11,00:14:01,Gabriela e Alves,João Paulo,Conexão lenta,Encerrado,12,11,0
+2019-12-11,2019-12-11,00:04:01,Milena Fernandes,João Paulo,Conexão lenta,Encerrado,12,11,0
+2019-12-11,2019-12-12,00:05:53,Rodrigo Barreto,Diego Amorim,Dúvidas/Outros,Encerrado,12,11,1
+2019-12-11,2019-12-15,00:04:46,Helena Carramanhos Peixoto ,Diego Amorim,Dúvidas/Outros,Encerrado,12,11,4
+2019-12-12,2019-12-12,00:01:16,Frederico Vidal,Heitor Prado,Problema com login,Cancelado,12,12,0
+2019-12-12,2019-12-12,00:07:15,Bernardo da cunha ,João Paulo,Dúvidas/Outros,Encerrado,12,12,0
+2019-12-12,2019-12-18,00:12:42,Thomaz Campelo da Silva,Alon Pinheiro,Problema com login,Cancelado,12,12,6
+2019-12-13,2019-12-14,00:02:09,Bruna Mello Varela,João Paulo,Conexão lenta,Cancelado,12,13,1
+2019-12-14,2019-12-17,00:04:13,Carolina da Silva,Camila Pereira,Problema com login,Encerrado,12,14,3
+2019-12-14,2019-12-16,00:03:31,Guilherme Delgado,Camila Pereira,Dúvidas/Outros,Encerrado,12,14,2
+2019-12-14,2019-12-16,00:07:37,Guilherme Nunez,João Paulo,Dúvidas/Outros,Encerrado,12,14,2
+2019-12-14,2019-12-14,00:06:20,Beatriz Machado Araujo,Diego Amorim,Dúvidas/Outros,Encerrado,12,14,0
+2019-12-15,2019-12-15,00:09:49,Marcello Rebouças,Diego Amorim,Dúvidas/Outros,Encerrado,12,15,0
+2019-12-16,2019-12-16,00:06:08,Brenno Silva,Diego Amorim,Conexão lenta,Encerrado,12,16,0
+2019-12-16,2019-12-17,00:05:59,Julie Barros ,Diego Amorim,Problema com login,Encerrado,12,16,1
+2019-12-16,2019-12-18,00:04:46,Elvis Macedo,Carol Espinosa,Conexão lenta,Encerrado,12,16,2
+2019-12-17,2019-12-18,00:07:54,Daniel Benevides Xavier,João Paulo,Dúvidas/Outros,Encerrado,12,17,1
+2019-12-17,2019-12-17,00:01:49,Gabriela Romeu,João Paulo,Dúvidas/Outros,Cancelado,12,17,0
+2019-12-17,2019-12-22,00:07:12,Matheus Pereira dos Santos,Diego Amorim,Dúvidas/Outros,Sem resposta,12,17,5
+2019-12-17,2019-12-20,00:05:37,Bruno de Souza,Diego Amorim,Conexão lenta,Encerrado,12,17,3
+2019-12-18,2019-12-27,00:07:03,Milena Brum,Heitor Prado,Conexão lenta,Encerrado,12,18,9
+2019-12-18,2019-12-22,00:05:27,Fernanda Rocha,Diego Amorim,Conexão lenta,Encerrado,12,18,4
+2019-12-18,2019-12-21,00:13:35,Daniel Lopes da Silveira ,Carol Espinosa,Dúvidas/Outros,Encerrado,12,18,3
+2019-12-19,2019-12-22,00:05:14,Luis Azevedo,Camila Pereira,Problema com login,Encerrado,12,19,3
+2019-12-20,2019-12-21,00:02:19,Carlos Mota,Camila Pereira,Conexão lenta,Cancelado,12,20,1
+2019-12-20,2019-12-29,00:04:09,Frederico Vidal,Diego Amorim,Problema com login,Cancelado,12,20,9
+2019-12-21,2019-12-21,00:04:44,Frederico Vidal,João Paulo,Problema com login,Encerrado,12,21,0
+2019-12-21,2019-12-22,00:02:50,Karine Cardoso das Chagas,Diego Amorim,Conexão lenta,Encerrado,12,21,1
+2019-12-22,2019-12-23,00:04:12,Thiago Fernandes de Araújo,Alon Pinheiro,Reembolso,Sem resposta,12,22,1
+2019-12-22,2019-12-27,00:08:59,Renan Assis da Silva,Diego Amorim,Dúvidas/Outros,Encerrado,12,22,5
+2019-12-23,2019-12-27,00:05:33,Milena Fernandes,Camila Pereira,Problema com login,Encerrado,12,23,4
+2019-12-25,2019-12-26,00:01:54,Victor Mota,João Paulo,Problema com login,Encerrado,12,25,1
+2019-12-26,2019-12-26,00:11:09,Pedro Jardim,João Paulo,Pagamento,Encerrado,12,26,0
+2019-12-26,2019-12-26,00:03:52,Raphael Rodrigues,João Paulo,Dúvidas/Outros,Encerrado,12,26,0
+2019-12-26,2019-12-28,00:01:05,Mariana Almeida Alexandre,João Paulo,Dúvidas/Outros,Encerrado,12,26,2
+2019-12-27,2019-12-27,00:08:27,Ébio Velucci,Heitor Prado,Dúvidas/Outros,Encerrado,12,27,0
+2019-12-28,2019-12-28,00:06:50,Júlia Oliveira de Mello Silva,João Paulo,Problema com login,Encerrado,12,28,0
+2019-12-28,2019-12-28,00:01:28,Alberto Ruzza de Carvalho,João Paulo,Conexão lenta,Encerrado,12,28,0
+2019-12-28,2019-12-28,00:03:39,Jayme Carvalho,Alon Pinheiro,Dúvidas/Outros,Encerrado,12,28,0
+2019-12-28,2019-12-29,00:13:19,José Rodrigues Pereira,Diego Amorim,Dúvidas/Outros,Encerrado,12,28,1
+2019-12-29,2019-12-30,00:03:35,Manuela Brum,João Paulo,Dúvidas/Outros,Encerrado,12,29,1
+2019-12-29,2019-12-29,00:06:48,Raíza Barcellos,Diego Amorim,Dúvidas/Outros,Encerrado,12,29,0
+2019-12-31,2019-12-31,00:01:41,Cynthia Alvim,João Paulo,Dúvidas/Outros,Encerrado,12,31,0
